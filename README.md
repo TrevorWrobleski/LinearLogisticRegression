@@ -14,6 +14,7 @@ ST211 teaches linear and logistic regression with a strong applied component.
 | [Workshop 2](workshop_02.md) | Data Frames and Hypothesis Testing | Loading and inspecting data, subsetting, aggregation, `ggplot2` scatterplots and boxplots, one-sample and two-sample t-tests, statistical power |
 | [Workshop 3](workshop_03.md) | Simple Linear Regression | OLS estimation, interpreting coefficients and R², residuals, the four assumptions (linearity, independence, constant variance, normality), diagnostic plots, a gallery of assumption violations using built-in datasets |
 | [Workshop 4](workshop_04.md) | Multiple Linear Regression | Ceteris paribus interpretation, categorical predictors and dummy variables, interactions, the model matrix, $F$-statistic, adjusted $R^2$, ANOVA decomposition |
+| [Workshop 5](workshop_05.md) | Outliers, Leverage, and Influence | Standardized residuals, the hat matrix, Cook's distance, DFFITS, Anscombe's quartet, manufacturing influential points, the decision framework for handling outliers |
 
 Further workshops will be added as the course progresses.
 
