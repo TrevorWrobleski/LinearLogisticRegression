@@ -15,6 +15,7 @@ ST211 teaches linear and logistic regression with a strong applied component.
 | [Workshop 3](workshop_03.md) | Simple Linear Regression | OLS estimation, interpreting coefficients and R², residuals, the four assumptions (linearity, independence, constant variance, normality), diagnostic plots, a gallery of assumption violations using built-in datasets |
 | [Workshop 4](workshop_04.md) | Multiple Linear Regression | Ceteris paribus interpretation, categorical predictors and dummy variables, interactions, the model matrix, $F$-statistic, adjusted $R^2$, ANOVA decomposition |
 | [Workshop 5](workshop_05.md) | Outliers, Leverage, and Influence | Standardized residuals, the hat matrix, Cook's distance, DFFITS, Anscombe's quartet, manufacturing influential points, the decision framework for handling outliers |
+| [Workshop 6](workshop_06.md) | Theory & Geometry Supplement | Set operations and probability axioms, historical origins and application of *ceteris paribus*, omitted variable bias, geometric intuition for interaction terms|
 
 Further workshops will be added as the course progresses.
 
