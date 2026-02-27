@@ -31,3 +31,9 @@ install.packages(c("ggplot2", "arm", "gridExtra", "dplyr"))
 ```
 
 Some workshops use course-specific datasets distributed through the ST211 Moodle page. Where possible, exercises also use datasets built into R so that students can practice without additional downloads.
+
+### Supplementary Datasets
+
+This repository also includes curated datasets for hands-on regression practice:
+
+- **[🏍️ Motorcycle Specs 2020](moto_data/README.md)** — 656 motorcycles from 15 major brands with engine specs, dimensions, and a custom binary outcome (`trevors_fav`) for logistic regression. Hopefully you find this helpful for both linear and logistic regression. See the [dataset README](moto_data/moto_README.md) for full documentation.
