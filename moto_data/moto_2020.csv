@@ -1,0 +1,657 @@
+Brand,Model,Year,Category,Rating,displacement_cc,power_hp,torque_nm,engine_cyl,engine_stroke,Gearbox,bore_mm,stroke_mm,fuel_cap_lts,fuel_control,cooling,trans_type,dry_weight_kg,wheelbase_mm,seat_height_mm,front_tire,rear_tire,trevors_fav
+Aprilia,dorsoduro 900,2020,Super Motard,NA,896.1,95.2,90,V2,Four-Stroke,6-Speed,92,67.4,12,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,186,1515,870,120/70-ZR17,180/55-ZR17,No
+Aprilia,etx 150,2020,Allround,NA,149,NA,NA,Single Cylinder,Four-Stroke,5-Speed,62,49.5,18,Single Overhead Cams (Sohc),Air,Chain,NA,1330,NA,90/90-17,110/80-17,No
+Aprilia,rs 125,2020,Sport,NA,124.2,28.2,NA,Single Cylinder,Four-Stroke,6-Speed,58,47,14.5,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1353,820,100/80-R17,130/70-R17,No
+Aprilia,rs 125 gp replica,2020,Sport,3,124.2,15,10.9,Single Cylinder,Four-Stroke,6-Speed,58,47,14.5,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1353,820,100/80-R17,130/70-R17,No
+Aprilia,rs 50,2020,Sport,3.4,50,NA,NA,Single Cylinder,Two-Stroke,6-Speed,39.9,40,14.5,NA,Liquid,Chain,NA,NA,820,100/80-17,130/70-17,No
+Aprilia,rs 660,2020,Prototype / Concept Model,NA,660,100,NA,Twin,Four-Stroke,6-Speed,NA,NA,NA,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,169,1369,NA,120/70-17,180/55-17,No
+Aprilia,rsv4 1100 factory,2020,Sport,NA,1078,217,122,V4,Four-Stroke,6-Speed,81,52.3,18.5,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,177,1439,851,120/70-ZR17,200/55-ZR17,No
+Aprilia,rsv4 rf,2020,Sport,3.2,999.6,201,115,V4,Four-Stroke,6-Speed,78,52.3,18.5,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,180,1420,840,120/70-ZR17,200/55-ZR17,No
+Aprilia,rsv4 rr,2020,Sport,NA,999.6,201,115,V4,Four-Stroke,6-Speed,78,52.3,18.5,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,180,1420,840,120/70-ZR17,200/55-ZR17,No
+Aprilia,rx 125,2020,Enduro / Offroad,NA,124.2,15,10.9,Single Cylinder,Four-Stroke,6-Speed,58,47,7.5,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1350,905,90/90-21,120/80-18,No
+Aprilia,rx 50,2020,Enduro / Offroad,NA,50,NA,NA,Single Cylinder,Two-Stroke,6-Speed,39.9,40,7,NA,Liquid,Chain,NA,1395,880,80/90-21,110/80-18,No
+Aprilia,shiver 900,2020,Naked Bike,NA,896,95,90,V2,Four-Stroke,6-Speed,92,67.4,15,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,207,1465,810,120/70-ZR17,180/55-ZR17,No
+Aprilia,sr 50 r,2020,Scooter,3.7,49,NA,NA,Single Cylinder,Two-Stroke,Automatic,40,39.3,7,NA,Liquid,Belt,NA,1290,795,130/60-13,130/60-13,No
+Aprilia,sr 50 r gp replica,2020,Scooter,3.1,49,NA,NA,Single Cylinder,Two-Stroke,Automatic,40,39.3,7,NA,Liquid,Belt,NA,1290,795,130/60-13,130/60-13,No
+Aprilia,sr max 300,2020,Scooter,NA,278,22,23,Single Cylinder,Four-Stroke,Automatic,75,63,15,Overhead Cams (Ohc),Liquid,Belt,NA,NA,815,120/70-15,140/60-14,No
+Aprilia,sr motard 125,2020,Scooter,NA,124,9.6,8.2,Single Cylinder,Four-Stroke,Automatic,57,48.6,7,Single Overhead Cams (Sohc),Air,Belt,122,NA,775,120/70-14,120/70-14,No
+Aprilia,sr motard 50,2020,Scooter,NA,49.9,4.6,3.8,Single Cylinder,Four-Stroke,Automatic,40,39.3,7,NA,Air,Belt,106,1350,820,120/70-14,120/70-14,No
+Aprilia,srv 850,2020,Scooter,3.7,839.3,76,76.4,V2,Four-Stroke,Automatic,88,69,18.5,Single Overhead Cams (Sohc),Liquid,Belt,249,1593,780,120/70-R16,160/60-R15,No
+Aprilia,srv 850 abs-atc,2020,Scooter,3.8,839.3,76,76.4,V2,Four-Stroke,Automatic,88,69,18.5,Single Overhead Cams (Sohc),Liquid,Belt,250,1593,780,120/70-R16,160/60-R15,No
+Aprilia,stx 150,2020,Allround,NA,149,NA,NA,Single Cylinder,Four-Stroke,6-Speed,62,49.5,18,Single Overhead Cams (Sohc),Air,Chain,NA,1330,NA,90/90-17,110/80-17,No
+Aprilia,sx 125,2020,Super Motard,3,124.2,15,22.2,Single Cylinder,Four-Stroke,6-Speed,58,47,10,NA,Liquid,Chain,NA,1350,880,100/80-R17,130/70-R17,No
+Aprilia,sx 50,2020,Super Motard,2.8,50,NA,NA,Single Cylinder,Two-Stroke,6-Speed,39.9,40,7,NA,Liquid,Chain,NA,1365,820,100/80-17,130/70-17,No
+Aprilia,sx 50 factory,2020,Super Motard,3.4,50,NA,NA,Single Cylinder,Two-Stroke,6-Speed,40,39.3,7,NA,Liquid,Chain,NA,1395,875,100/80-17,130/70-17,No
+Aprilia,tuono 125,2020,Naked Bike,NA,124.2,15,10.9,Single Cylinder,Four-Stroke,6-Speed,58,47,14.5,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1350,810,100/80-17,130/70-17,No
+Aprilia,tuono 660,2020,Prototype / Concept Model,2.9,660,95,NA,Twin,Four-Stroke,NA,NA,NA,NA,Double Overhead Cams/Twin Cam (Dohc),Liquid,NA,NA,NA,NA,120/70-17,180/60-17,No
+Aprilia,tuono v4 1100 factory,2020,Naked Bike,3.5,1077,175,121,V4,Four-Stroke,6-Speed,81,52.3,18.5,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,185,1450,825,120/70-ZR17,200/55-ZR17,No
+Aprilia,tuono v4 1100 rr,2020,Naked Bike,3.5,1077,173,121,V4,Four-Stroke,6-Speed,81,52.3,18.5,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,185,1450,825,120/70-ZR17,190/55-ZR17,No
+Bmw,blechmann r18,2020,Prototype / Concept Model,NA,1800,90,158,Two Cylinder Boxer,Four-Stroke,6-Speed,NA,NA,NA,NA,NA,Shaft Drive,NA,NA,NA,NA,NA,No
+Bmw,c 400 gt,2020,Scooter,NA,350,34,35,Single Cylinder,Four-Stroke,Automatic,80,69.6,12.8,Overhead Cams (Ohc),Liquid,Chain,NA,1565,775,120/70-ZR15,150/70-ZR14,No
+Bmw,c 400 x,2020,Scooter,NA,350,34,35,Single Cylinder,Four-Stroke,Automatic,80,69.5,12.8,Overhead Cams (Ohc),Liquid,Chain,193,1565,775,120/70-ZR15,150/70-ZR14,No
+Bmw,c 650 gt,2020,Scooter,2.7,647,60,63,Twin,Four-Stroke,Automatic,79,66,15.5,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,241,1591,795,120/70-ZR15,160/60-ZR15,No
+Bmw,c 650 sport,2020,Scooter,3.9,647,60,63,Twin,Four-Stroke,Automatic,79,66,15.5,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,236.8,1591,800,120/70-ZR15,160/60-ZR15,No
+Bmw,c evolution,2020,Scooter,NA,NA,48,72,Electric,Electric,NA,NA,NA,NA,NA,Liquid,NA,275,1610,765,120/70-R15,160/60-R15,No
+Bmw,f 750 gs,2020,Enduro / Offroad,3.6,853,77,83,Twin,Four-Stroke,6-Speed,84,77,15,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1559,815,110/80-19,150/70-17,Yes
+Bmw,f 850 gs,2020,Enduro / Offroad,3.6,853,95,92,Twin,Four-Stroke,6-Speed,84,77,15,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1593,860,90/90-21,150/70-R17,Yes
+Bmw,f 850 gs adventure,2020,Enduro / Offroad,NA,853,95,92,Twin,Four-Stroke,6-Speed,84,77,23,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1593,875,90/90-21,150/70-R17,Yes
+Bmw,f 900 r,2020,Sport,3.6,895,103,92,Twin,Four-Stroke,6-Speed,86,77,13,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1521,770,120/70-ZR17,180/55-ZR17,Yes
+Bmw,f 900 xr,2020,Sport,2.9,895,103,92,Twin,Four-Stroke,6-Speed,86,77,15.5,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1521,860,120/70-ZR17,180/55-ZR17,Yes
+Bmw,g 310 gs,2020,Sport,3.6,313,33.5,28,Single Cylinder,Four-Stroke,NA,80,62.1,11,Double Overhead Cams/Twin Cam (Dohc),Liquid,NA,NA,1420,835,NA,NA,Yes
+Bmw,g 310 r,2020,Sport,3.1,313,33.5,28,Single Cylinder,Four-Stroke,NA,80,62.1,11,Double Overhead Cams/Twin Cam (Dohc),Liquid,NA,158.5,1380,785,110/70-17,150/60-17,No
+Bmw,k 1600 b,2020,Touring,NA,1649,158,175,In-Line Six,Four-Stroke,6-Speed,72,67.5,26.5,Double Overhead Cams/Twin Cam (Dohc),Liquid,Shaft Drive,NA,1618,750,120/70-ZR17,190/55-ZR17,No
+Bmw,k 1600 grand america,2020,Touring,NA,1649,158,175,In-Line Six,Four-Stroke,6-Speed,72,67.5,26.5,Double Overhead Cams/Twin Cam (Dohc),Liquid,Shaft Drive,NA,1618,750,120/70-ZR17,190/55-ZR17,No
+Bmw,k 1600 gt,2020,Touring,3.6,1649,158,175,In-Line Six,Four-Stroke,6-Speed,72,67.5,26.5,Double Overhead Cams/Twin Cam (Dohc),Liquid,Shaft Drive,306,1618,750,120/70-ZR17,190/55-ZR17,No
+Bmw,k 1600 gtl,2020,Touring,3.6,1649,158,175,In-Line Six,Four-Stroke,6-Speed,72,67.5,26.5,Double Overhead Cams/Twin Cam (Dohc),Liquid,Shaft Drive,NA,1618,750,120/70-ZR17,190/55-ZR17,No
+Bmw,r 1250 gs,2020,Enduro / Offroad,3.4,1254,136,143,Two Cylinder Boxer,Four-Stroke,6-Speed,102.5,76,20,Double Overhead Cams/Twin Cam (Dohc),Liquid,Shaft Drive,NA,1525,850,120/70-R19,170/60-R17,Yes
+Bmw,r 1250 gs adventure,2020,Enduro / Offroad,3.8,1254,134,143,Two Cylinder Boxer,Four-Stroke,6-Speed,102.5,76,30,Double Overhead Cams/Twin Cam (Dohc),Oil & Air,Shaft Drive,NA,1504,890,120/70-R19,170/60-R17,Yes
+Bmw,r 1250 r,2020,Naked Bike,3.5,1254,136,143,Twin,Four-Stroke,6-Speed,102.5,76,18,Double Overhead Cams/Twin Cam (Dohc),Liquid,Shaft Drive,NA,1515,820,120/70-ZR17,180/55-ZR17,No
+Bmw,r 1250 rs,2020,Sport Touring,3.3,1254,136,143,Two Cylinder Boxer,Four-Stroke,6-Speed,102,76,18,Double Overhead Cams/Twin Cam (Dohc),Liquid,Shaft Drive,NA,1530,820,120/70-ZR17,180/55-ZR17,No
+Bmw,r 1250 rt,2020,Enduro / Offroad,3.4,1254,134,143,Two Cylinder Boxer,Four-Stroke,6-Speed,102.5,76,25,Double Overhead Cams/Twin Cam (Dohc),Oil & Air,Shaft Drive,NA,1485,830,120/70-ZR17,180/55-ZR17,No
+Bmw,r nine t pure,2020,Sport,NA,1170,110,116,Two Cylinder Boxer,Four-Stroke,6-Speed,101,73,17,Double Overhead Cams/Twin Cam (Dohc),Oil & Air,Shaft Drive,NA,1493,805,120/70-ZR17,180/55-ZR17,Yes
+Bmw,r nine t pure sport,2020,Sport,NA,1170,110,116,Two Cylinder Boxer,Four-Stroke,6-Speed,101,73,17,Double Overhead Cams/Twin Cam (Dohc),Oil & Air,Shaft Drive,NA,1493,805,120/70-ZR17,180/55-ZR17,Yes
+Bmw,r ninet,2020,Naked Bike,NA,1170,110,116,Two Cylinder Boxer,Four-Stroke,6-Speed,101,73,18,Double Overhead Cams/Twin Cam (Dohc),Oil & Air,Shaft Drive,NA,1487,805,120/70-ZR17,180/55-ZR17,Yes
+Bmw,r ninet 5,2020,Naked Bike,NA,1170,110,116,Two Cylinder Boxer,Four-Stroke,6-Speed,101,73,17,Double Overhead Cams/Twin Cam (Dohc),Oil & Air,Shaft Drive,NA,1476,805,120/70-ZR17,180/55-ZR17,Yes
+Bmw,r ninet scrambler,2020,Naked Bike,NA,1170,110,116,Two Cylinder Boxer,Four-Stroke,6-Speed,101,73,17,Double Overhead Cams/Twin Cam (Dohc),Oil & Air,Shaft Drive,220,1527,820,120/70-R19,170/60-R17,Yes
+Bmw,r ninet scrambler sport,2020,Naked Bike,NA,1170,110,116,Two Cylinder Boxer,Four-Stroke,6-Speed,101,73,18,Double Overhead Cams/Twin Cam (Dohc),Air,Shaft Drive,220,1527,820,120/70-R19,170/60-R17,Yes
+Bmw,r ninet urban gs,2020,Naked Bike,NA,1170,110,116,Twin,Four-Stroke,6-Speed,101,73,17,Double Overhead Cams/Twin Cam (Dohc),Oil & Air,Shaft Drive,NA,1527,850,120/70-ZR19,170/60-ZR17,Yes
+Bmw,r18 concept,2020,Prototype / Concept Model,NA,1800,NA,NA,Two Cylinder Boxer,Four-Stroke,6-Speed,NA,NA,NA,NA,NA,Shaft Drive,NA,NA,NA,NA,NA,No
+Bmw,r18 dragster,2020,Prototype / Concept Model,NA,1800,90,158,Two Cylinder Boxer,Four-Stroke,6-Speed,NA,NA,NA,NA,NA,Shaft Drive,NA,NA,NA,NA,NA,Yes
+Bmw,s 1000 r,2020,Naked Bike,3.6,999,165,114,In-Line Four,Four-Stroke,6-Speed,80,49.7,17.5,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,178,1439,814,120/70-ZR17,190/55-ZR17,No
+Bmw,s 1000 rr,2020,Sport,NA,999,205,112,In-Line Four,Four-Stroke,6-Speed,80,49.7,16.5,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1441,823,120/70-ZR17,190/55-ZR17,No
+Bmw,s 1000 xr,2020,Sport,3.5,999,162,114,In-Line Four,Four-Stroke,6-Speed,80,49.7,20,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,205,1548,840,120/70-ZR17,190/55-ZR17,No
+Cf Moto,150nk,2020,Naked Bike,NA,149,14.4,12.2,Single Cylinder,Four-Stroke,6-Speed,57,58.6,10,Single Overhead Cams (Sohc),Liquid,Chain,NA,1360,785,100/80-R17,130/70-R17,No
+Cf Moto,250nk,2020,Naked Bike,NA,249,26.2,22,Single Cylinder,Four-Stroke,5-Speed,75,61.2,12.5,Double Overhead Cams/Twin Cam (Dohc),Liquid,Belt,NA,1590,NA,110/70-17,140/60-17,No
+Cf Moto,250sr,2020,Sport,NA,249.2,27.5,22,Single Cylinder,Four-Stroke,Automatic,72,61.2,12,Single Overhead Cams (Sohc),Liquid,NA,165,1360,NA,110/70-17,140/60-17,No
+Cf Moto,300nk,2020,Naked Bike,NA,292,28,25,Single Cylinder,Four-Stroke,6-Speed,78,61.2,12.5,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1360,NA,110/70-ZR17,140/60-ZR17,No
+Cf Moto,300sr,2020,Sport,NA,292.4,28.7,25.3,Single Cylinder,Four-Stroke,6-Speed,78,61.2,12,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1360,NA,110/70-ZR17,140/60-ZR17,No
+Cf Moto,400nk,2020,Naked Bike,NA,400.4,40.9,34.4,Twin,Four-Stroke,6-Speed,68.4,54.5,17,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1415,815,120/70-ZR17,160/60-ZR17,No
+Cf Moto,650gt abs,2020,Sport Touring,NA,649.3,60.4,62,Twin,Four-Stroke,6-Speed,83,60,19.5,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,226,NA,795,120/70-17,160/60-17,No
+Cf Moto,650mt abs,2020,Sport Touring,3.5,649.3,55.7,62,Twin,Four-Stroke,6-Speed,83,60,18,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,NA,840,120/70-17,160/60-17,No
+Cf Moto,650nk,2020,Naked Bike,NA,649.3,60.4,56,Twin,Four-Stroke,6-Speed,83,60,17,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1450,815,120/70-R17,160/60-R17,No
+Cf Moto,cforce 1000,2020,Atv,NA,962.6,67.1,71,V2,Four-Stroke,NA,NA,NA,30,Single Overhead Cams (Sohc),NA,NA,447,1480,NA,NA,NA,No
+Cf Moto,cforce 450,2020,Atv,NA,400,30.2,28.7,Single Cylinder,Four-Stroke,Automatic,91,61.5,15,Single Overhead Cams (Sohc),Liquid,Belt,345,1260,540,24/8-12,24/8-12,No
+Cf Moto,cforce 520,2020,Atv,NA,495,35.9,41,Single Cylinder,Four-Stroke,Automatic,91,76.2,15,Single Overhead Cams (Sohc),Liquid,Belt,345,1260,NA,24/8-12,24/10-12,No
+Cf Moto,cforce 850,2020,Atv,3.9,800,60.4,63,V2,Four-Stroke,NA,91,61.5,30,Single Overhead Cams (Sohc),NA,NA,NA,1480,1057,26/9-14,26/11-14,No
+Cf Moto,st papio,2020,"Minibike, Sport",NA,126,9.4,8.3,Single Cylinder,Four-Stroke,6-Speed,57,49.4,7,NA,Air,NA,NA,1214,775,120/70-12,130/70-12,No
+Ducati,1299 panigale r final edition,2020,Sport,3.7,1285,209,142,V2,Four-Stroke,6-Speed,116,60.8,17,Desmodromic Valve Control,Liquid,Chain,168,1435,830,120/70-ZR17,200/55-ZR17,No
+Ducati,diavel 1260,2020,Allround,NA,1262,159,129,V2,Four-Stroke,6-Speed,106,71.5,17,Desmodromic Valve Control,Liquid,Chain,218,1600,780,130/70-ZR17,240/45-ZR17,No
+Ducati,diavel 1260 s,2020,Allround,3.3,1262,159,129,V2,Four-Stroke,6-Speed,106,71.5,17,Desmodromic Valve Control,Liquid,Chain,218,1600,780,120/70-17,240/45-17,No
+Ducati,hypermotard 950,2020,Super Motard,NA,937,110,96,V2,Four-Stroke,6-Speed,94,67.5,14.5,Desmodromic Valve Control,Liquid,Chain,NA,1493,870,120/70-ZR17,180/55-ZR17,No
+Ducati,hypermotard 950 sp,2020,Super Motard,3.1,937,114,96,V2,Four-Stroke,6-Speed,94,67.5,14.5,Desmodromic Valve Control,Liquid,Chain,NA,1498,890,120/70-ZR17,180/55-ZR17,No
+Ducati,monster 1200 s,2020,Naked Bike,3.4,1198,147,124,V2,Four-Stroke,6-Speed,106,67.9,16.5,Desmodromic Valve Control,Liquid,Chain,185,1485,795,120/70-ZR17,190/55-ZR17,Yes
+Ducati,monster 821,2020,Naked Bike,NA,821,109,86,V2,Four-Stroke,6-Speed,88,67.5,16.5,Desmodromic Valve Control,Air,Chain,180.5,1480,785,120/70-ZR17,180/55-ZR17,No
+Ducati,monster 821  stealth,2020,Naked Bike,3.4,821,109,86,V2,Four-Stroke,6-Speed,88,67.5,16.5,Desmodromic Valve Control,Air,Chain,180.5,1480,785,120/70-ZR17,180/55-ZR17,No
+Ducati,multistrada 1260,2020,Allround,NA,1262,158,129,V2,Four-Stroke,6-Speed,106,71.5,20,Desmodromic Valve Control,Liquid,Chain,209,1585,825,120/70-17,190/55-17,No
+Ducati,multistrada 1260 d-air,2020,Allround,NA,1262,158,129,V2,Four-Stroke,6-Speed,106,71.5,20,Desmodromic Valve Control,Liquid,Chain,213,1585,825,120/70-17,190/55-17,No
+Ducati,multistrada 1260 enduro,2020,Enduro / Offroad,3.8,1262,158,128,V2,Four-Stroke,6-Speed,106,71.5,30,Desmodromic Valve Control,Liquid,Chain,225,1592,840,120/70-17,170/60-17,No
+Ducati,multistrada 1260 pikes peak,2020,Naked Bike,NA,1262,158,129,V2,Four-Stroke,6-Speed,106,71.5,30,Desmodromic Valve Control,Liquid,Chain,206,1585,825,120/70-17,190/55-17,No
+Ducati,multistrada 1260 s,2020,Allround,NA,1262,158,129,V2,Four-Stroke,6-Speed,106,71.5,20,Desmodromic Valve Control,Liquid,Chain,209,1585,825,120/70-17,190/55-17,No
+Ducati,multistrada 1260 s grand tour,2020,Sport Touring,NA,1262,158,129,V2,Four-Stroke,6-Speed,106,71.5,20,Desmodromic Valve Control,Liquid,Chain,215,1585,825,120/70-17,190/55-17,No
+Ducati,multistrada 950,2020,Allround,NA,937,113,96.2,V2,Four-Stroke,6-Speed,94,67.5,20,Desmodromic Valve Control,Liquid,Chain,204,1594,840,120/70-ZR19,170/60-ZR17,No
+Ducati,multistrada 950 s,2020,Allround,4,937,113,96.2,V2,Four-Stroke,6-Speed,94,67.5,20,Desmodromic Valve Control,Liquid,Chain,204,1594,840,120/70-ZR19,170/60-ZR17,No
+Ducati,panigale superleggera v4,2020,Naked Bike,NA,998,221,116,V4,Four-Stroke,6-Speed,81,48.4,16,Desmodromic Valve Control,Liquid,Chain,193,1480,835,120/70-17,200/60-ZR17,No
+Ducati,panigale v2,2020,Sport,3.6,955,155,104,V2,Four-Stroke,6-Speed,100,60.8,17,Desmodromic Valve Control,Liquid,Chain,176,1436,830,120/70-ZR17,180/60-ZR17,No
+Ducati,panigale v4,2020,Sport,NA,1103,214,124,V4,Four-Stroke,6-Speed,81,53.5,16,Desmodromic Valve Control,Liquid,Chain,175,1469,835,120/70-ZR17,200/60-ZR17,No
+Ducati,panigale v4 r,2020,Sport,NA,998,221,112,V4,Four-Stroke,6-Speed,81,48.4,16,Desmodromic Valve Control,Liquid,Chain,172,1471,830,120/70-ZR17,200/60-ZR17,Yes
+Ducati,panigale v4 s,2020,Sport,NA,1103,214,124,V4,Four-Stroke,6-Speed,81,53.5,16,Desmodromic Valve Control,Liquid,Chain,174,1469,835,120/70-ZR17,200/60-ZR17,No
+Ducati,scrambler cafe racer,2020,Allround,NA,803,73,67,V2,Four-Stroke,6-Speed,88,66,13.5,Desmodromic Valve Control,Air,Chain,180,1436,805,120/70-17,180/55-17,No
+Ducati,scrambler desert sled,2020,Enduro / Offroad,NA,803,73,67,V2,Four-Stroke,6-Speed,88,66,13.5,Desmodromic Valve Control,Air,Chain,193,1505,840,120/70-R19,170/60-R17,No
+Ducati,scrambler desertx concept,2020,Prototype / Concept Model,3.2,1079,84,NA,V2,Four-Stroke,6-Speed,NA,NA,30,NA,Air,Chain,NA,NA,NA,90/90-21,140/80-17,No
+Ducati,scrambler full throttle,2020,Allround,NA,803,73,67,V2,Four-Stroke,6-Speed,88,66,13.5,NA,Air,Chain,173,1445,778,110/80-R18,180/55-R17,No
+Ducati,scrambler icon dark,2020,Allround,3.2,803,72.4,67,V2,Four-Stroke,6-Speed,88,66,13.5,Desmodromic Valve Control,Air,Chain,173,1445,798,110/80-18,180/55-17,No
+Ducati,scrambler sixty2,2020,Classic,NA,399,40,34,V2,Four-Stroke,6-Speed,72,49,14,Desmodromic Valve Control,Air,Chain,167,1460,790,110/80-18,160/60-18,No
+Ducati,scrambler tangerine icon,2020,Enduro / Offroad,NA,803,73,67,V2,Four-Stroke,6-Speed,88,66,13.5,Desmodromic Valve Control,Air,Chain,173,1445,778,110/80-R18,180/55-R17,No
+Ducati,streetfighter v4,2020,Naked Bike,NA,1103,208,122,V4,Four-Stroke,6-Speed,81,53.5,16,Desmodromic Valve Control,Liquid,Chain,NA,1469,830,120/70-ZR17,200/60-ZR17,No
+Ducati,streetfighter v4 s,2020,Naked Bike,3.7,1103,208,123,V4,Four-Stroke,6-Speed,81,53.5,16,Desmodromic Valve Control,Liquid,Chain,178,1488,845,120/70-ZR17,200/60-ZR17,No
+Ducati,supersport s,2020,Sport,NA,937,110,93,V2,Four-Stroke,6-Speed,94,67.5,16,Desmodromic Valve Control,Liquid,Chain,183,1478,810,120/70-17,180/55-17,No
+Ducati,xdiavel,2020,Sport,NA,1262,152,126,V2,Four-Stroke,NA,106,71.5,NA,Desmodromic Valve Control,NA,Belt,220,1615,755,NA,240/45-ZR17,No
+Ducati,xdiavel s,2020,Sport,NA,1262,152,126,V2,Four-Stroke,NA,106,71.5,18,Desmodromic Valve Control,NA,Belt,220,1615,755,120/70-ZR17,240/45-ZR17,No
+Harley-Davidson,1200 custom,2020,Custom / Cruiser,NA,1202,67,99,V2,Four-Stroke,6-Speed,88.9,96.8,17,NA,Air,Belt,255,1530,725,130/90-B16,150/80-B16,No
+Harley-Davidson,breakout 114,2020,Custom / Cruiser,3.5,1868,100,161,V2,Four-Stroke,6-Speed,102,114,13.2,Double Overhead Cams/Twin Cam (Dohc),Air,Belt,294,1695,665,130/60-B21,240/40-R18,No
+Harley-Davidson,bronx,2020,Prototype / Concept Model,NA,975,115,96.3,V2,Four-Stroke,NA,NA,NA,NA,NA,Liquid,Chain,NA,NA,NA,NA,NA,No
+Harley-Davidson,cvo limited,2020,Touring,NA,1923,105,169,V2,Four-Stroke,6-Speed,103.5,114.3,22.71,NA,Oil & Air,Belt,411,1625,704,130/80-B17,180/65-B16,No
+Harley-Davidson,cvo road glide,2020,Touring,NA,1923,105,171,V2,Four-Stroke,6-Speed,104,114,22.71,Double Overhead Cams/Twin Cam (Dohc),Oil & Air,Belt,390,1625,680,130/60-B21,180/55-B18,No
+Harley-Davidson,cvo street glide,2020,Touring,4.1,1923,105,169,V2,Four-Stroke,6-Speed,103.5,114.3,22.71,Double Overhead Cams/Twin Cam (Dohc),Oil & Air,Belt,376.9,1625,663,130/60-B19,180/55-B18,No
+Harley-Davidson,cvo tri glide,2020,Touring,3.6,1917.4,105,169,V2,Four-Stroke,6-Speed,102,114.3,22.71,Double Overhead Cams/Twin Cam (Dohc),Air,Belt,562,1670,658,130/60-B19,215/45-R18,No
+Harley-Davidson,deluxe,2020,Custom / Cruiser,3.3,1746,86,145,V2,Four-Stroke,6-Speed,98.4,111.1,18.93,Double Overhead Cams/Twin Cam (Dohc),Air,Belt,303,1631,680,MT90-B16,MU85-B16,No
+Harley-Davidson,electra glide standard,2020,Touring,NA,1746,90,150,V2,Four-Stroke,6-Speed,100,111,22.71,Double Overhead Cams/Twin Cam (Dohc),Oil & Air,Belt,354.3,1625,663,130/80-B17,180/65-B16,No
+Harley-Davidson,fat bob 114,2020,Custom / Cruiser,3.1,1868,94,155,V2,Four-Stroke,6-Speed,102,114,13.6,Double Overhead Cams/Twin Cam (Dohc),Air,Belt,296,1690,710,150/80-16,180/70-B16,No
+Harley-Davidson,fat boy 114,2020,Custom / Cruiser,3.2,1868,100,160,V2,Four-Stroke,6-Speed,102,114,13.6,Double Overhead Cams/Twin Cam (Dohc),Air,Belt,296,1690,710,150/80-16,180/70-B16,Yes
+Harley-Davidson,freewheeler,2020,Custom / Cruiser,3.3,1868,100,165,V2,Four-Stroke,6-Speed,102,114.3,22.71,Double Overhead Cams/Twin Cam (Dohc),Oil & Air,Belt,492,1670,700,130/60-B19,205/65-R15,No
+Harley-Davidson,fxdr 114,2020,Custom / Cruiser,NA,1868,100,160,V2,Four-Stroke,6-Speed,102,114.3,16.7,NA,NA,Chain,289,1735,720,120/70-ZR19,240/40-R18,No
+Harley-Davidson,heritage classic,2020,Custom / Cruiser,3,1746,86,147,V2,Four-Stroke,6-Speed,102,114,18.9,Double Overhead Cams/Twin Cam (Dohc),Air,Belt,316,1630,680,130/90-B16,150/80-B16,No
+Harley-Davidson,iron 1200,2020,Custom / Cruiser,3.7,1202,NA,99,V2,Four-Stroke,6-Speed,88.9,96.8,12.5,Double Overhead Cams/Twin Cam (Dohc),Air,Belt,248.1,1514,653,100/90-B19,150/80-B16,No
+Harley-Davidson,iron 883,2020,Custom / Cruiser,3.1,883,51,73,V2,Four-Stroke,6-Speed,76.2,96.8,12.5,NA,Air,Belt,247,1515,653,100/90-B19,150/80-B16,No
+Harley-Davidson,livewire,2020,Sport,2.7,NA,105,116,Electric,Electric,NA,NA,NA,NA,NA,Air,NA,NA,1491,762,120/70-ZR17,180/55-ZR17,No
+Harley-Davidson,low rider,2020,Custom / Cruiser,3.6,1746,86,149,V2,Four-Stroke,6-Speed,100,111,18.9,Double Overhead Cams/Twin Cam (Dohc),Air,Belt,287,1630,690,110/90-B19,180/70-B16,No
+Harley-Davidson,pan america,2020,Prototype / Concept Model,NA,1250,145,122,V2,Four-Stroke,NA,NA,NA,NA,NA,Liquid,Chain,NA,NA,NA,NA,NA,No
+Harley-Davidson,road glide,2020,Touring,3.6,1746,89,150,V2,Four-Stroke,6-Speed,100,111.1,22.71,NA,Oil & Air,Belt,372,1625,658,130/70-B19,180/65-B16,No
+Harley-Davidson,road glide limited,2020,Touring,3.6,1868,89,165,V2,Four-Stroke,6-Speed,102,114.3,22.71,Double Overhead Cams/Twin Cam (Dohc),Oil & Air,Belt,398.7,1625,691,130/60-B19,180/55-B18,No
+Harley-Davidson,road glide special,2020,Touring,3.6,1868,100,165,V2,Four-Stroke,6-Speed,102,114.3,22.71,Double Overhead Cams/Twin Cam (Dohc),Oil & Air,Belt,372,1625,695,130/60-B19,180/55-B18,No
+Harley-Davidson,road king,2020,Touring,3.6,1746,89,150,V2,Four-Stroke,6-Speed,100,111.1,22.71,Double Overhead Cams/Twin Cam (Dohc),Air,Belt,362,1625,705,130/80-B17,180/65-B16,No
+Harley-Davidson,road king special,2020,Touring,3.6,1868,100,165,V2,Four-Stroke,6-Speed,102,114.3,22.71,Double Overhead Cams/Twin Cam (Dohc),Air,Belt,355,1625,695,130/60-B19,180/55-B18,No
+Harley-Davidson,roadster,2020,Naked Bike,NA,1202,67,103,V2,Four-Stroke,6-Speed,88.9,96.8,12.5,Double Overhead Cams/Twin Cam (Dohc),Air,Belt,250,1505,785,120/70-R19,150/70-R18,Yes
+Harley-Davidson,softail heritage classic 114,2020,Custom / Cruiser,3.6,1868,94,161,V2,Four-Stroke,6-Speed,102,114,18.9,Double Overhead Cams/Twin Cam (Dohc),Air,Belt,316,1630,668,130/90-B16,150/80-B16,No
+Harley-Davidson,softail low rider s,2020,Custom / Cruiser,3.5,1868.2,86,161,V2,Four-Stroke,6-Speed,102.1,114.3,18.9,Double Overhead Cams/Twin Cam (Dohc),Air,Belt,294.8,1615,673,110/90-B19,180/70-B16,No
+Harley-Davidson,softail slim,2020,Custom / Cruiser,3.5,1746,86,149,V2,Four-Stroke,6-Speed,100,111.1,18.9,Double Overhead Cams/Twin Cam (Dohc),Air,Belt,291,1630,648,130/90-B16,150/80-B16,No
+Harley-Davidson,sport glide,2020,Custom / Cruiser,3.2,1746,86,145,V2,Four-Stroke,6-Speed,100,111.1,18.93,Double Overhead Cams/Twin Cam (Dohc),Air,Belt,304,1625,653,130/70-B18,180/70-B16,No
+Harley-Davidson,sportster forty-eight,2020,Custom / Cruiser,NA,1202,65,99,V2,Four-Stroke,6-Speed,88.9,96.8,7.9,Double Overhead Cams/Twin Cam (Dohc),Air,Belt,247,1495,665,130/90-B16,150/80-B16,No
+Harley-Davidson,street 750,2020,Custom / Cruiser,3.2,749,58,60.3,V2,Four-Stroke,6-Speed,85,66,13.1,Single Overhead Cams (Sohc),Liquid,Belt,223,1534,653,100/80-R17,140/75-R15,No
+Harley-Davidson,street bob,2020,Custom / Cruiser,3.5,1746,86,149,V2,Four-Stroke,6-Speed,100,111.1,13.2,Double Overhead Cams/Twin Cam (Dohc),Air,Belt,286,1630,680,100/90-B19,150/80-b16,No
+Harley-Davidson,street glide,2020,Touring,3.8,1746,89,150,V2,Four-Stroke,6-Speed,100,111,22.71,Double Overhead Cams/Twin Cam (Dohc),Oil & Air,Belt,361,1625,663,130/60-B19,180/55-B18,No
+Harley-Davidson,street glide special,2020,Touring,3.8,1868,100,165,V2,Four-Stroke,6-Speed,102,114.3,22.7,Double Overhead Cams/Twin Cam (Dohc),Oil & Air,Belt,362,1625,691,130/60-B19,180/55-B18,No
+Harley-Davidson,street rod,2020,Custom / Cruiser,NA,749,70,65,V2,Four-Stroke,6-Speed,85,66,13.25,Single Overhead Cams (Sohc),Liquid,Belt,229,1510,765,120/70-R17,160/60-R17,No
+Harley-Davidson,superlow,2020,Custom / Cruiser,NA,883,52.3,74.6,V2,Four-Stroke,6-Speed,76.2,96.8,17,NA,Air,Belt,247,1500,648,120/70-ZR18,150/60-ZR17,No
+Harley-Davidson,superlow 120t,2020,Touring,NA,1202,67,96,V2,Four-Stroke,6-Speed,88.9,96.8,17,NA,Air,Belt,264,1500,648,120/70-ZR18,150/60-ZR17,No
+Harley-Davidson,tri glide ultra,2020,Touring,3.8,1868,100,164,V2,Four-Stroke,6-Speed,102,114.3,22.71,Double Overhead Cams/Twin Cam (Dohc),Air,Belt,545.7,1670,735,MT90-B16,205/65-R15,No
+Harley-Davidson,ultra limited,2020,Touring,3.2,1868,100,165,V2,Four-Stroke,6-Speed,102,114,22.71,Double Overhead Cams/Twin Cam (Dohc),Oil & Air,Belt,398,1625,699,130/70-B18,180/55-B18,No
+Honda,africa twin,2020,Enduro / Offroad,3.3,1084,101,104,Twin,Four-Stroke,6-Speed,92,81.5,18.93,Single Overhead Cams (Sohc),Liquid,Chain,NA,1575,851,90/90-21,150/70-R18,No
+Honda,africa twin adventure sports,2020,Enduro / Offroad,NA,1084,101,104,Twin,Four-Stroke,6-Speed,92,81.5,18.93,Single Overhead Cams (Sohc),Liquid,Chain,NA,1575,851,90/90-21,150/70-R18,Yes
+Honda,ag-xr,2020,Enduro / Offroad,NA,184,NA,NA,Single Cylinder,Four-Stroke,5-Speed,61,63.1,12,Single Overhead Cams (Sohc),Air,Chain,NA,1369,823,2.75-21,3.00-16,No
+Honda,aviator,2020,Scooter,NA,109,8,NA,Single Cylinder,Four-Stroke,NA,NA,NA,NA,Overhead Cams (Ohc),Air,NA,NA,1256,790,90/90-12,90/100-10,No
+Honda,cb1000r,2020,Naked Bike,3.9,998,143,104,In-Line Four,Four-Stroke,6-Speed,76,56.5,16.28,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1445,830,120/70-ZR17,190/55-ZR17,No
+Honda,cb1100 rs,2020,Allround,3.6,1140,88.5,91,In-Line Four,Four-Stroke,6-Speed,73.5,67.2,16.8,Double Overhead Cams/Twin Cam (Dohc),Oil & Air,Chain,NA,1485,795,120/70-R17,180/55-R17,No
+Honda,cb125e,2020,Sport,NA,124.1,NA,NA,Single Cylinder,Four-Stroke,5-Speed,56.5,49.5,14,Overhead Cams (Ohc),Air,Chain,NA,1286,767,80/90-18,90/90-18,Yes
+Honda,cb250f,2020,Sport,NA,249.6,NA,NA,Single Cylinder,Four-Stroke,NA,71,63,16.5,Single Overhead Cams (Sohc),Oil & Air,NA,135,1386,784,110/70-17,140/70-17,No
+Honda,cb300r,2020,Naked Bike,NA,286,NA,NA,Single Cylinder,Four-Stroke,6-Speed,76,63,10.22,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1354,800,110/70-17,150/60-17,No
+Honda,cb4x,2020,Prototype / Concept Model,NA,650,NA,NA,In-Line Four,Four-Stroke,NA,NA,NA,NA,NA,Liquid,Chain,NA,NA,NA,NA,NA,No
+Honda,cb500x,2020,Sport,3.4,471,46.4,41.3,Twin,Four-Stroke,6-Speed,67,66.8,17.7,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1445,812,110/80-19,160/60-17,No
+Honda,cb650r,2020,Naked Bike,3.3,649,93.9,64,In-Line Four,Four-Stroke,6-Speed,67,46,15.4,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1450,810,120/70-17,180/55-17,No
+Honda,cbr1000rr-r fireblade,2020,Sport,NA,999,214,113,In-Line Four,Four-Stroke,6-Speed,81,48.5,16.1,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1455,831,120/70-ZR17,200/55-ZR17,No
+Honda,cbr1000rr-r fireblade sp,2020,Sport,3,999,214,113,In-Line Four,Four-Stroke,6-Speed,81,48.5,16.1,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1455,831,120/70-ZR17,200/55-ZR17,No
+Honda,cbr300r,2020,Sport,NA,286,34.9,22.9,Single Cylinder,Four-Stroke,6-Speed,76,63,12.87,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1379,780,110/70-17,140/70-17,No
+Honda,cbr500r,2020,Sport,NA,471,46.9,43,Twin,Four-Stroke,6-Speed,67,66.8,17,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1410,785,120/70-R17,160/60-17,No
+Honda,cbr600rr abs,2020,Sport,NA,599,118,66,In-Line Four,Four-Stroke,6-Speed,67,42.5,18,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1369,823,120/70-ZR17,180/55-ZR17,No
+Honda,cbr650r,2020,Sport,3.3,649,85.8,63,In-Line Four,Four-Stroke,6-Speed,67,46,15.52,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1448,810,120/70-17,180/55-17,No
+Honda,crf 50 f,2020,Enduro / Offroad,NA,49,NA,NA,Single Cylinder,Four-Stroke,3-Speed,39,41.4,2.64,Single Overhead Cams (Sohc),Air,Chain,NA,914,549,70/0-19,90/80-16,No
+Honda,crf110f,2020,Enduro / Offroad,NA,109,7.2,8.9,Single Cylinder,Four-Stroke,4-Speed,50,55.6,3.79,Single Overhead Cams (Sohc),Air,Chain,NA,1064,658,70/100-14,80/100-12,No
+Honda,crf125f,2020,Cross / Motocross,NA,124.9,8.9,10.2,Single Cylinder,Four-Stroke,4-Speed,52.4,57.9,3.79,Single Overhead Cams (Sohc),Air,Chain,NA,1219,739,70/100-17,90/100-14,No
+Honda,crf125f big wheel,2020,Enduro / Offroad,3.3,124.9,NA,NA,Single Cylinder,Four-Stroke,4-Speed,52.4,57.9,3.79,Single Overhead Cams (Sohc),Air,Chain,NA,1255,785,70/100-19,90/100-16,No
+Honda,crf150r,2020,Cross / Motocross,NA,149,23.5,14.1,Single Cylinder,Four-Stroke,5-Speed,66,43.7,4.2,Single Overhead Cams (Sohc),Liquid,Chain,NA,1260,833,70/100-17,90/100-14,No
+Honda,crf230f,2020,Enduro / Offroad,3.4,249,NA,NA,Single Cylinder,Four-Stroke,5-Speed,71,63,6.06,Single Overhead Cams (Sohc),Air,Chain,NA,1420,884,80/100-21,100/100-18,No
+Honda,crf250f,2020,Cross / Motocross,NA,249,NA,NA,Single Cylinder,Four-Stroke,5-Speed,71,63,7.19,Single Overhead Cams (Sohc),Liquid,Chain,NA,1420,884,80/100-21,100/100-118,No
+Honda,crf250l,2020,Enduro / Offroad,3.4,249.6,22.8,22,Single Cylinder,Four-Stroke,6-Speed,76,55,7.95,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1445,874,3.00-21,120/80-18,No
+Honda,crf250r,2020,Cross / Motocross,3.3,249,NA,NA,Single Cylinder,Four-Stroke,5-Speed,79,50.9,6.06,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1481,960,80/100-21,100/90-19,No
+Honda,crf250rx,2020,Enduro / Offroad,NA,249,NA,NA,Single Cylinder,Four-Stroke,5-Speed,79,50.9,8.52,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1486,960,80/100-21,110/100-18,No
+Honda,crf450l,2020,Cross / Motocross,NA,449,53,48,Single Cylinder,Four-Stroke,5-Speed,96,62.1,7.57,Single Overhead Cams (Sohc),Liquid,Chain,NA,1496,942,80/100-21,120/80-18,No
+Honda,crf450r,2020,Cross / Motocross,NA,449.7,53,48,Single Cylinder,Four-Stroke,5-Speed,96,62.1,6.43,Single Overhead Cams (Sohc),Liquid,Chain,NA,1481,960,80/100-21,120/80-19,No
+Honda,crf450rwe,2020,Cross / Motocross,NA,449.7,53,48,Single Cylinder,Four-Stroke,5-Speed,96,62.1,6.28,Single Overhead Cams (Sohc),Liquid,Chain,NA,1481,960,80/100-21,120/80-19,No
+Honda,crf450rx,2020,Enduro / Offroad,NA,449,NA,NA,Single Cylinder,Four-Stroke,5-Speed,96,62,8.52,Single Overhead Cams (Sohc),Liquid,Chain,NA,1478,960,90/90-21,120/90-18,No
+Honda,crf450x,2020,Enduro / Offroad,NA,449,44.5,41.3,Single Cylinder,Four-Stroke,6-Speed,96,62,7.61,Single Overhead Cams (Sohc),Liquid,Chain,NA,1481,950,80/100-21,110/100-18,No
+Honda,crf50f,2020,Enduro / Offroad,NA,49,NA,NA,Single Cylinder,Four-Stroke,3-Speed,39,41.4,2.65,Single Overhead Cams (Sohc),Air,Chain,49.9,914,549,2.50-10,2.50-10,No
+Honda,forza 300,2020,Scooter,3.4,279,24.8,27.2,Single Cylinder,Four-Stroke,Automatic,72,68.5,11.5,Single Overhead Cams (Sohc),Liquid,Belt,182,1510,780,120/70-15,140/70-14,No
+Honda,fourtrax foreman 4x4,2020,Atv,NA,518,NA,NA,Single Cylinder,Four-Stroke,5-Speed,96,71.5,14.76,Overhead Valves (Ohv),Liquid,Shaft Drive,288.5,1270,869,25/8-12,25/10-12,No
+Honda,fourtrax foreman rubicon 4x4,2020,Atv,NA,518,NA,NA,Single Cylinder,Four-Stroke,5-Speed,92,71.5,14.76,Overhead Valves (Ohv),Liquid,Shaft Drive,317.5,1295,909,25/8-12,25/8-12,No
+Honda,fourtrax rancher,2020,Atv,NA,420,56.3,NA,Single Cylinder,Four-Stroke,5-Speed,86.5,71.5,14.76,Overhead Valves (Ohv),Liquid,Shaft Drive,NA,1270,856,24/8-12,24/10-11,No
+Honda,fourtrax recon,2020,Atv,NA,229,NA,NA,Single Cylinder,Four-Stroke,5-Speed,68.5,62.2,9.08,Overhead Valves (Ohv),Air,Shaft Drive,NA,1130,792,22/7-11,22/10-9,No
+Honda,fourtrax rincon,2020,Atv,NA,675,NA,NA,Single Cylinder,Four-Stroke,3-Speed,102,82.6,16.65,Overhead Valves (Ohv),Liquid,Shaft Drive,298,1290,876,25/8-12,25/10-12,No
+Honda,fury,2020,Custom / Cruiser,3.6,1312,NA,89.5,V2,Four-Stroke,5-Speed,89.5,104.3,12.87,Single Overhead Cams (Sohc),Liquid,Shaft Drive,NA,1808,683,90/90-21,200/50-18,No
+Honda,gl1800 gold wing,2020,Touring,3.4,1833,124,170,Six Cylinder Boxer,Four-Stroke,6-Speed,73,73,21.1,Single Overhead Cams (Sohc),Liquid,Shaft Drive,NA,1695,745,130/70-R18,200/55-R16,No
+Honda,gold wing,2020,Touring,NA,1833,118,167,Six Cylinder Boxer,Four-Stroke,6-Speed,73,73,21.01,Single Overhead Cams (Sohc),Liquid,Shaft Drive,NA,1694,744,130/70-18,200/55-16,No
+Honda,gold wing automatic dct,2020,Touring,NA,1833,118,167,Six Cylinder Boxer,Four-Stroke,7-Speed,73,73,21.01,Single Overhead Cams (Sohc),Liquid,Shaft Drive,NA,1694,744,130/70-18,200/55-16,No
+Honda,gold wing tour,2020,Touring,3.6,1833,118,167,Six Cylinder Boxer,Four-Stroke,6-Speed,73,73,21.01,Single Overhead Cams (Sohc),Liquid,Shaft Drive,NA,1694,744,130/70-18,200/55-16,No
+Honda,gold wing tour airbag automatic dct,2020,Touring,NA,1833,118,167,Six Cylinder Boxer,Four-Stroke,7-Speed,73,73,21.01,Single Overhead Cams (Sohc),Liquid,Shaft Drive,NA,1694,744,130/70-18,200/55-16,No
+Honda,gold wing tour automatic dct,2020,Touring,NA,1833,118,167,Six Cylinder Boxer,Four-Stroke,7-Speed,73,73,21.01,Single Overhead Cams (Sohc),Liquid,Shaft Drive,NA,1694,744,130/70-18,200/55-16,No
+Honda,grom,2020,Sport,NA,124.9,NA,NA,Single Cylinder,Four-Stroke,4-Speed,52.4,57.9,5.49,Single Overhead Cams (Sohc),Air,Chain,NA,1199,762,120/70-12,130/70-12,No
+Honda,integra,2020,Scooter,NA,745,54,68,Twin,Four-Stroke,6-Speed,77,80,14.1,Single Overhead Cams (Sohc),Liquid,Chain,NA,1525,790,120/70-ZR17,160/60-ZR17,No
+Honda,metropolitan,2020,Scooter,NA,49,NA,NA,Single Cylinder,Four-Stroke,Automatic,NA,NA,4.54,NA,NA,Belt,NA,1181,719,80/100-10,80/100-10,No
+Honda,monkey,2020,Allround,3.4,124.9,NA,NA,Single Cylinder,Four-Stroke,4-Speed,52.4,57.9,5.68,Single Overhead Cams (Sohc),Air,Chain,NA,1156,777,120/80-12,130/80-12,No
+Honda,montesa cota 301rr,2020,Trial,NA,298,NA,NA,Single Cylinder,Four-Stroke,5-Speed,81.5,57.2,1.89,Single Overhead Cams (Sohc),Liquid,Chain,73,1321,678,80/100-21,120/100-R18,No
+Honda,montesa cota 4rt260,2020,Trial,NA,259,NA,NA,Single Cylinder,Four-Stroke,5-Speed,78,54.2,2,Single Overhead Cams (Sohc),Liquid,Chain,NA,1321,650,2.75-21,4.00-18,No
+Honda,mw110,2020,Scooter,NA,108,NA,NA,Single Cylinder,Four-Stroke,Automatic,50,55,10,Overhead Cams (Ohc),Air,Belt,NA,1280,710,90/90-12,110/80-10,No
+Honda,nc750x,2020,Super Motard,3.5,745,54,68,Twin,Four-Stroke,6-Speed,77,80,14.1,Single Overhead Cams (Sohc),Liquid,Chain,NA,1534,830,120/70-ZR17,160/60-ZR17,No
+Honda,nsc110 dio,2020,Scooter,NA,108,8,8.7,Single Cylinder,Four-Stroke,Automatic,50,55.1,5.3,Overhead Cams (Ohc),Air,Belt,NA,1255,750,80/90-14,90/90-14,No
+Honda,pcx150,2020,Scooter,NA,149,NA,NA,Single Cylinder,Four-Stroke,Automatic,57.3,57.9,7.95,Single Overhead Cams (Sohc),Liquid,Belt,NA,1316,765,100/80-14,120/70-14,No
+Honda,rebel 300,2020,Custom / Cruiser,3.4,286,NA,NA,Single Cylinder,Four-Stroke,6-Speed,76,63,11.17,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1491,691,130/90-16,150/80-16,No
+Honda,rebel 500,2020,Sport,3.6,471,46.9,43,Twin,Four-Stroke,6-Speed,67,66.8,11.2,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1488,690,130/90-16,150/80-16,Yes
+Honda,ruckus,2020,Scooter,NA,49,NA,NA,Single Cylinder,Four-Stroke,Automatic,37.8,44,4.92,NA,Liquid,Belt,NA,1265,734,120/90-10,130/90-10,No
+Honda,sh125i,2020,Scooter,NA,124.9,12,11.5,Single Cylinder,Four-Stroke,Automatic,52.4,57.9,7.5,Single Overhead Cams (Sohc),Liquid,Belt,123,1340,799,100/80-16,120/80-16,No
+Honda,sh150i,2020,Scooter,3,153,14.7,14,Single Cylinder,Four-Stroke,Automatic,57.3,57.9,7.5,Overhead Cams (Ohc),Liquid,Belt,129,1340,799,100/80-16,120/80-16,No
+Honda,shadow aero,2020,Custom / Cruiser,3,745,NA,NA,V2,Four-Stroke,5-Speed,79,76,14,Single Overhead Cams (Sohc),Liquid,Shaft Drive,NA,1638,658,120/90-17,160/80-15,No
+Honda,shadow phantom,2020,Custom / Cruiser,3.3,745,NA,NA,V2,Four-Stroke,5-Speed,79,76,14,Single Overhead Cams (Sohc),Liquid,Shaft Drive,NA,1641,655,120/90-17,160/80-15,No
+Honda,shine,2020,Allround,NA,124.7,10.1,10.5,Single Cylinder,Four-Stroke,4-Speed,52.4,67.9,10.5,Overhead Cams (Ohc),Air,Chain,NA,1266,NA,80/100-18,80/100-18,No
+Honda,super cub c125,2020,Scooter,3.7,124.9,NA,NA,Single Cylinder,Four-Stroke,4-Speed,52.4,57.9,3.79,Single Overhead Cams (Sohc),Air,Belt,NA,1225,780,70/90-17,80/90-17,No
+Honda,trx250x,2020,Atv,NA,229,NA,NA,Single Cylinder,Four-Stroke,5-Speed,68.5,62.2,9.46,Overhead Valves (Ohv),Air,Shaft Drive,NA,1125,798,22/7-10,22/10-9,No
+Honda,trx90x,2020,Atv,NA,86,NA,NA,Single Cylinder,Four-Stroke,4-Speed,47,49.5,6.43,Single Overhead Cams (Sohc),Air,Chain,NA,983,660,20/7-8,19/8-8,No
+Honda,vfr1200x,2020,Sport Touring,3.9,1237,127,126,V4,Four-Stroke,6-Speed,81,60,21.5,Single Overhead Cams (Sohc),Liquid,Shaft Drive,NA,1595,850,110/80-R19,150/70-R17,No
+Honda,vfr800f,2020,Sport Touring,NA,782,104,75,V4,Four-Stroke,6-Speed,72,48,21.5,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1460,789,120/70-ZR17,180/55-ZR17,No
+Honda,vfr800x,2020,Sport Touring,3.5,782,107,77,V4,Four-Stroke,6-Speed,72,48,20.8,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1475,815,120/70-ZR17,180/55-ZR17,No
+Honda,x-adv,2020,Allround,NA,745,54,68,V2,Four-Stroke,6-Speed,77,80,13,Single Overhead Cams (Sohc),Liquid,Chain,NA,1590,820,120/70-R17,160/60-R15,No
+Honda,xr650l,2020,Enduro / Offroad,3.2,644,NA,NA,Single Cylinder,Four-Stroke,5-Speed,100,82,10.6,Single Overhead Cams (Sohc),Air,Chain,NA,1455,940,3.00-21,4.60-18,No
+Husqvarna,701 enduro,2020,Enduro / Offroad,3.4,692.7,73.8,67,Single Cylinder,Four-Stroke,6-Speed,105,80,13,Single Overhead Cams (Sohc),Liquid,Chain,145,1504,920,90/90-21,140/90-18,Yes
+Husqvarna,701 supermoto,2020,Super Motard,NA,692.7,74,NA,Single Cylinder,Four-Stroke,6-Speed,105,80,13,Single Overhead Cams (Sohc),Liquid,Chain,147,1504,890,NA,NA,Yes
+Husqvarna,ee 5,2020,"Minibike, Cross",NA,NA,4,13.8,Electric,Electric,NA,NA,NA,NA,NA,Air,Chain,NA,NA,665,NA,NA,No
+Husqvarna,fc 250,2020,Cross / Motocross,NA,249.9,46,NA,Single Cylinder,Four-Stroke,5-Speed,78,52.3,7,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,99.5,1482,950,90/90-21,140/90-18,No
+Husqvarna,fc 350,2020,Cross / Motocross,NA,349.7,58,NA,Single Cylinder,Four-Stroke,5-Speed,88,57.5,7,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,100,1485,950,90/90-21,140/90-18,No
+Husqvarna,fc 450 rockstar edition,2020,Cross / Motocross,NA,449.9,63,NA,Single Cylinder,Four-Stroke,5-Speed,95,63.4,7,Single Overhead Cams (Sohc),Liquid,Chain,101,1485,950,90/90-21,140/90-18,No
+Husqvarna,fe 350,2020,Enduro / Offroad,NA,349.7,NA,NA,Single Cylinder,Four-Stroke,6-Speed,88,57.5,8.2,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,106.8,1482,950,90/90-21,140/80-18,No
+Husqvarna,fe 350s,2020,Enduro / Offroad,NA,349.7,NA,NA,Single Cylinder,Four-Stroke,6-Speed,88,57.5,8.5,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,106.8,1482,950,90/90-21,140/80-18,No
+Husqvarna,fe 501,2020,Enduro / Offroad,NA,510.9,NA,NA,Single Cylinder,Four-Stroke,6-Speed,95,72,8.2,Single Overhead Cams (Sohc),Liquid,Chain,108.4,1482,950,90/90-21,140/80-18,No
+Husqvarna,fe 501s,2020,Enduro / Offroad,3.6,510.9,NA,NA,Single Cylinder,Four-Stroke,6-Speed,95,72,8.2,Single Overhead Cams (Sohc),Liquid,Chain,108.4,1482,950,90/90-21,140/80-18,No
+Husqvarna,fs 450,2020,Super Motard,3.5,449.9,63,NA,Single Cylinder,Four-Stroke,5-Speed,95,63.4,7,Single Overhead Cams (Sohc),Liquid,Chain,102.8,1475,890,90/90-17,140/90-17,No
+Husqvarna,fx 350,2020,Enduro / Offroad,NA,349.7,58,NA,Single Cylinder,Four-Stroke,6-Speed,88,57.5,8.5,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,100.6,1482,950,90/90-21,140/80-18,No
+Husqvarna,fx 450,2020,Enduro / Offroad,NA,449.9,63,NA,Single Cylinder,Four-Stroke,5-Speed,95,63.4,8.5,Single Overhead Cams (Sohc),Liquid,Chain,101.6,1482,950,90/90-21,140/80-18,No
+Husqvarna,svartpilen 401,2020,Allround,3.7,373,43,37,Single Cylinder,Four-Stroke,6-Speed,89,60,9.5,NA,Liquid,Chain,152,1357,835,110/70-R17,150/60-R17,Yes
+Husqvarna,svartpilen 701,2020,Prototype / Concept Model,NA,692.7,75,74,Single Cylinder,Four-Stroke,6-Speed,105,80,12,NA,Liquid,Chain,161,NA,NA,NA,NA,Yes
+Husqvarna,tc 125,2020,Cross / Motocross,NA,124.8,40,NA,Single Cylinder,Two-Stroke,6-Speed,54,54.5,8,NA,Liquid,Chain,87.5,1485,950,80/100-21,120/90-18,No
+Husqvarna,tc 250,2020,Cross / Motocross,NA,249,NA,NA,Single Cylinder,Two-Stroke,5-Speed,66.4,72,8,NA,Liquid,Chain,96,1495,950,80/100-21,120/90-19,No
+Husqvarna,tc 50,2020,Cross / Motocross,NA,49,NA,NA,Single Cylinder,Two-Stroke,Automatic,39.5,40,2.3,NA,Liquid,Chain,41.5,1032,684,NA,NA,No
+Husqvarna,te 150i,2020,Enduro / Offroad,NA,144,NA,NA,Single Cylinder,Two-Stroke,6-Speed,58,54.4,8.5,NA,Liquid,Chain,99.6,1471,950,90/90-21,120/80-18,No
+Husqvarna,te 250i,2020,Enduro / Offroad,NA,249,NA,NA,Single Cylinder,Two-Stroke,6-Speed,66.4,72,8.5,NA,Liquid,Chain,105.2,1482,950,90/90-21,140/90-18,No
+Husqvarna,te 300i,2020,Enduro / Offroad,NA,293.2,NA,NA,Single Cylinder,Two-Stroke,6-Speed,72,72,8.5,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,105.4,1482,950,90/90-21,140/90-18,No
+Husqvarna,tx 300i,2020,Enduro / Offroad,NA,293.2,NA,NA,Single Cylinder,Two-Stroke,6-Speed,72,72,8.5,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1485,950,90/90-21,140/90-18,No
+Husqvarna,vitpilen 401,2020,Allround,3.3,373,43,37,Single Cylinder,Four-Stroke,6-Speed,89,60,9.5,NA,Liquid,Chain,151,1357,835,110/70-R17,150/60-R17,No
+Husqvarna,vitpilen 701,2020,Allround,3.6,692.7,75,74,Single Cylinder,Four-Stroke,6-Speed,105,80,12,NA,Liquid,Chain,157,NA,830,NA,NA,No
+Indian,challenger,2020,Custom / Cruiser,NA,1769.9,122,173,V2,Four-Stroke,6-Speed,108,96.5,22.7,NA,Air,Belt,361,1668,672,130/60-B19,180/60-R16,No
+Indian,challenger dark horse,2020,Custom / Cruiser,NA,1769.9,122,173,V2,Four-Stroke,6-Speed,108,96.5,22.7,NA,Air,Belt,361,1668,672,130/60-B19,180/60-R16,No
+Indian,challenger limited,2020,Custom / Cruiser,NA,1769.9,122,173,V2,Four-Stroke,6-Speed,108,96.5,22.7,NA,Air,Belt,365,1668,672,130/60-B19,180/60-R16,No
+Indian,chief dark horse,2020,Custom / Cruiser,NA,1819.1,NA,161,V2,Four-Stroke,6-Speed,101,113,20.8,NA,Air,Belt,334,1701,660,130/90-B16,180/65-B16,No
+Indian,chief vintage,2020,Classic,NA,1811,NA,161,V2,Four-Stroke,6-Speed,101,113,20.8,NA,Air,Belt,365,1730,660,130/90-B16,180/65-B16,No
+Indian,chieftain classic,2020,Custom / Cruiser,NA,1811,NA,161,V2,Four-Stroke,6-Speed,101,113,20.8,NA,Air,Belt,375,1668,660,130/90-B16,180/60-R16,No
+Indian,chieftain dark horse,2020,Custom / Cruiser,NA,1811,NA,150,V2,Four-Stroke,6-Speed,103,113,20.8,NA,Air,Belt,362,1668,650,130/60-B19,180/60-R16,No
+Indian,chieftain elite,2020,Custom / Cruiser,NA,1901,NA,168,V2,Four-Stroke,6-Speed,103.2,113,20.8,NA,NA,Belt,365,1668,650,130/60-B19,180/60-R16,No
+Indian,chieftain limited,2020,Custom / Cruiser,NA,1901,NA,168,V2,Four-Stroke,6-Speed,103.2,113,20.8,NA,Air,Belt,362,1668,650,130/60-B19,180/60-R16,No
+Indian,ftr 1200,2020,Custom / Cruiser,NA,1203,123,117,V2,Four-Stroke,6-Speed,102,73.6,12.9,Double Overhead Cams/Twin Cam (Dohc),Liquid,Belt,221,1524,840,120/70-R19,150/70-R18,No
+Indian,ftr 1200 s,2020,Custom / Cruiser,NA,1203,123,117,V2,Four-Stroke,6-Speed,102,73.6,12.9,Double Overhead Cams/Twin Cam (Dohc),Liquid,Belt,226,1524,840,120/70-R19,150/70-R18,No
+Indian,ftr rally,2020,Custom / Cruiser,NA,1203,123,120,V2,Four-Stroke,6-Speed,102,73.6,13,Double Overhead Cams/Twin Cam (Dohc),Liquid,Belt,232,1524,840,120/70-R19,150/70-R18,No
+Indian,roadmaster,2020,Touring,3.8,1901,NA,170,V2,Four-Stroke,6-Speed,103.2,113,20.8,NA,Air,Belt,405,1668,673,130/90-B16,180/60-R16,No
+Indian,roadmaster dark horse,2020,Touring,3.6,1901,NA,170,V2,Four-Stroke,6-Speed,103.2,113,20.8,NA,Air,Belt,398,1668,673,130/60-B16,180/60-R16,No
+Indian,scout,2020,Custom / Cruiser,3.3,1133,100,97.6,V2,Four-Stroke,6-Speed,99,73.6,12.5,NA,Liquid,Belt,242,1562,656,130/90-16,150/80-16,No
+Indian,scout 100th anniversary edition,2020,Custom / Cruiser,NA,1133,100,97.6,V2,Four-Stroke,6-Speed,99,73.6,12.5,NA,Liquid,Belt,256,1576,695,130/90-16,150/80-16,No
+Indian,scout bobber,2020,Custom / Cruiser,NA,1133,100,97.6,V2,Four-Stroke,6-Speed,99,73.6,12.5,NA,Liquid,Belt,250,1562,649,130/90-16,150/80-16,No
+Indian,scout bobber abs,2020,Custom / Cruiser,NA,1133,100,97.6,V2,Four-Stroke,6-Speed,99,73.6,12.5,NA,Liquid,Belt,NA,1576,649,130/90-16,150/80-16,No
+Indian,scout bobber twenty,2020,Custom / Cruiser,NA,1133,NA,97.7,V2,Four-Stroke,6-Speed,99,73.6,12.5,NA,Liquid,Belt,254,1576,649,130/90-16,150/80-16,No
+Indian,scout sixty,2020,Custom / Cruiser,NA,999,78,88.8,V2,Four-Stroke,6-Speed,93,73,12.5,NA,Liquid,Belt,245,1575,650,130/90-16,150/80-16,No
+Indian,scout sixty abs,2020,Custom / Cruiser,NA,999,78,88.8,V2,Four-Stroke,6-Speed,93,73,12.5,NA,Liquid,Belt,245,1576,650,130/90-16,150/80-16,No
+Indian,springfield,2020,Touring,3.8,1811,NA,161,V2,Four-Stroke,6-Speed,101,113,20.8,NA,Air,Belt,364,1701,660,130/80-B16,180/60-B16,No
+Indian,springfield dark horse,2020,Touring,NA,1811,NA,161,V2,Four-Stroke,6-Speed,103,113,20.8,NA,Air,Belt,349,1701,660,130/90-B16,180/60-B16,No
+Kawasaki,brute force 300,2020,Atv,NA,271,21.5,22.3,Single Cylinder,Four-Stroke,2-Speed,72.6,65.2,12,Single Overhead Cams (Sohc),Liquid,Shaft Drive,NA,1165,846,22/7-10,22/10-10,No
+Kawasaki,brute force 750 4x4i eps,2020,Atv,NA,749,50,57.9,V2,Four-Stroke,Automatic,85,66,19,Single Overhead Cams (Sohc),Liquid,Shaft Drive,NA,1285,909,25/8-12,25/10-12,No
+Kawasaki,brute force 750 4x4i eps camo,2020,Atv,NA,749,50,57.9,V2,Four-Stroke,Automatic,85,66,19,Single Overhead Cams (Sohc),Liquid,Shaft Drive,NA,1285,909,25/8-12,25/10-12,No
+Kawasaki,concours 14 abs,2020,Sport Touring,3.7,1352,155,136,In-Line Four,Four-Stroke,6-Speed,84,61,21.95,Double Overhead Cams/Twin Cam (Dohc),Liquid,Shaft Drive,NA,1519,815,120/70-ZR17,190/50-ZR17,No
+Kawasaki,dominar 400,2020,Naked Bike,NA,373.3,36,35,Single Cylinder,Four-Stroke,6-Speed,NA,NA,13,NA,Liquid,Chain,NA,NA,NA,110/70-17,150/60-17,No
+Kawasaki,j125,2020,Scooter,NA,125,NA,10.9,Single Cylinder,Four-Stroke,NA,54,54.5,13,Single Overhead Cams (Sohc),Liquid,NA,NA,1555,775,120/80-14,150/70-13,No
+Kawasaki,j300,2020,Scooter,NA,299,27.2,28.4,Single Cylinder,Four-Stroke,NA,72.7,72,13,Single Overhead Cams (Sohc),Liquid,Belt,NA,1555,775,120/80-14M/C58S,150/70-13M/C64S,No
+Kawasaki,kfx50,2020,Atv,NA,49.5,NA,NA,Single Cylinder,Four-Stroke,Automatic,39,41.4,5.5,NA,Air,Chain,NA,965,635,16/8-7,16/8-7,No
+Kawasaki,kfx90,2020,Atv,NA,90,NA,NA,Single Cylinder,Four-Stroke,Automatic,47,51.8,5.5,Single Overhead Cams (Sohc),Air,Chain,NA,965,650,18/7-8,18/9-8,No
+Kawasaki,klr 650,2020,Super Motard,NA,651,NA,NA,Single Cylinder,Four-Stroke,5-Speed,100,83,23.09,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1480,890,90/90-21,130/80-17,No
+Kawasaki,klx 110l,2020,Enduro / Offroad,NA,112,NA,NA,Single Cylinder,Four-Stroke,4-Speed,53,50.6,3.6,Single Overhead Cams (Sohc),Air,Chain,NA,1075,730,2.50-14,3.00-12,No
+Kawasaki,klx 140,2020,Enduro / Offroad,NA,144,NA,NA,Single Cylinder,Four-Stroke,5-Speed,58,54.4,5.8,Single Overhead Cams (Sohc),Air,Chain,NA,1260,780,70/100-17,90/100-14,No
+Kawasaki,klx 140l,2020,Enduro / Offroad,NA,144,NA,NA,Single Cylinder,Four-Stroke,5-Speed,58,54.4,5.8,Single Overhead Cams (Sohc),Air,Chain,NA,1285,800,70/100-19,90/100-16,No
+Kawasaki,klx 250,2020,Enduro / Offroad,3.3,249,21.5,20.5,Single Cylinder,Four-Stroke,6-Speed,72,61.2,7.7,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1430,890,3.00-21,4.60-18,No
+Kawasaki,klx110,2020,Enduro / Offroad,NA,112,7.3,8,Single Cylinder,Four-Stroke,4-Speed,53,50.6,3.79,Single Overhead Cams (Sohc),Air,Chain,NA,1074,680,2.50-14,3.00-12,No
+Kawasaki,klx150bf,2020,Enduro / Offroad,NA,144,NA,NA,Single Cylinder,Four-Stroke,NA,58,54.4,6.9,Single Overhead Cams (Sohc),Air,NA,NA,1340,870,2.75-21,4.1-18,No
+Kawasaki,klx230,2020,Enduro / Offroad,3.3,233,NA,NA,Single Cylinder,Four-Stroke,6-Speed,67,66,6.43,Single Overhead Cams (Sohc),Air,Chain,NA,1359,919,80/100-21,100/100-18,No
+Kawasaki,klx230r,2020,Enduro / Offroad,NA,233,NA,NA,Single Cylinder,Four-Stroke,6-Speed,67,66,6.6,Single Overhead Cams (Sohc),Air,Chain,NA,1359,925,80/100-21,100/100-18,No
+Kawasaki,klx250s,2020,Super Motard,NA,249,NA,20.6,Single Cylinder,Four-Stroke,NA,72,61.2,7.57,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1430,890,3.00-21,4.60-18,No
+Kawasaki,klx300r,2020,Enduro / Offroad,3.8,292,NA,NA,Single Cylinder,Four-Stroke,6-Speed,78,61.2,9.84,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,128,1435,925,80/100-x21,100/100-x18,No
+Kawasaki,klx450r,2020,Enduro / Offroad,NA,449,NA,NA,Single Cylinder,Four-Stroke,5-Speed,96,62.1,8,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1480,935,80/100-21,120/90-18,No
+Kawasaki,kx100,2020,Cross / Motocross,3.4,99,NA,NA,Single Cylinder,Two-Stroke,6-Speed,52.5,45.8,5.67,NA,Liquid,Chain,NA,1311,871,70/100-19,90/100-16,No
+Kawasaki,kx250,2020,Cross / Motocross,3.4,249,NA,NA,Single Cylinder,Four-Stroke,5-Speed,77,53.6,6.4,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,100.2,1481,947,80/100-21,100/90-19,No
+Kawasaki,kx450,2020,Cross / Motocross,NA,449,NA,NA,Single Cylinder,Four-Stroke,5-Speed,96,62,6.2,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,105.2,1485,955,80/100-21,120/80-19,No
+Kawasaki,kx65,2020,Cross / Motocross,NA,64.7,NA,NA,Single Cylinder,Two-Stroke,6-Speed,44.5,41.6,3.79,NA,Liquid,Chain,NA,1120,759,60/100-14,80/100-12,No
+Kawasaki,kx85 i,2020,Cross / Motocross,NA,84,NA,NA,Single Cylinder,Two-Stroke,6-Speed,48.5,45.8,5,NA,Liquid,Chain,NA,1265,830,70/100-17,90/100-14,No
+Kawasaki,kx85-ii,2020,Cross / Motocross,NA,84.6,NA,NA,Single Cylinder,Two-Stroke,6-Speed,48.5,45.8,5,NA,Liquid,Chain,NA,1310,870,70/100-19,90/100-16,No
+Kawasaki,ninja 1000 abs,2020,Sport,NA,1043,200,113,In-Line Four,Four-Stroke,6-Speed,77,56,17,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1440,815,120/70-ZR17,190/50-ZR17,No
+Kawasaki,ninja 1000sx,2020,Sport,3.5,1043,200,113,In-Line Four,Four-Stroke,6-Speed,77,56,17,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1440,815,120/70-ZR17,190/50-ZR17,No
+Kawasaki,ninja 125,2020,Sport,3.1,125,14.8,11.7,Single Cylinder,Four-Stroke,NA,58,47.2,7.4,Single Overhead Cams (Sohc),Liquid,Chain,NA,1330,785,100/80-17,130/70-17,No
+Kawasaki,ninja 400 abs,2020,Sport,NA,399,NA,NA,Twin,Four-Stroke,NA,70,51.8,3.7,Double Overhead Cams/Twin Cam (Dohc),NA,Chain,166,1344,785,110/70-17,150/70-17,No
+Kawasaki,ninja 400 krt edition,2020,Sport,NA,399,44,37,Twin,Four-Stroke,6-Speed,70,51.8,14,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1405,785,110/70-17,150/70-17,No
+Kawasaki,ninja 400 krt se,2020,Sport,NA,399,44.8,38,Twin,Four-Stroke,NA,70,51.8,14,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,168,1370,785,110/70-17,150/60-17,No
+Kawasaki,ninja 400 se,2020,Sport,NA,399,44.8,38,Twin,Four-Stroke,NA,70,51.8,14,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,166,1370,785,110/70-17,150/60-17,No
+Kawasaki,ninja 650,2020,Sport,3.5,649,52.3,56,Twin,Four-Stroke,6-Speed,83,60,16,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1410,790,120/70-17,160/60-17,No
+Kawasaki,ninja 650l,2020,Sport,NA,649,67.3,66,Twin,Four-Stroke,6-Speed,83,60,15,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1410,790,120/70-17,160/60-17,No
+Kawasaki,ninja h2,2020,Sport,NA,998,228,141,In-Line Four,Four-Stroke,6-Speed,76,55,17,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1455,825,120/70-ZR17,200/55-ZR17,Yes
+Kawasaki,ninja h2 carbon,2020,Sport,NA,998,228,141,In-Line Four,Four-Stroke,6-Speed,76,55,17,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1455,825,120/70-ZR17,200/55-ZR17,Yes
+Kawasaki,ninja h2 sx,2020,Sport,NA,998,228,141,In-Line Four,Four-Stroke,6-Speed,76,55,17,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1481,836,120/70-ZR17,190/55-ZR17,Yes
+Kawasaki,ninja h2 sx se,2020,Sport,NA,998,200,137,In-Line Four,Four-Stroke,6-Speed,76,55,19,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1481,835,120/70-ZR17,190/55-ZR17,Yes
+Kawasaki,ninja h2 sx se plus,2020,Sport,NA,998,228,141,In-Line Four,Four-Stroke,6-Speed,76,55,17,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1481,836,120/70-ZR17,190/55-ZR17,Yes
+Kawasaki,ninja h2r,2020,Sport,NA,998,228,141,In-Line Four,Four-Stroke,6-Speed,76,55,17,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1450,831,120/70-ZR17,190/65-ZR17,Yes
+Kawasaki,ninja z h2,2020,Sport,3.4,998,197,137,In-Line Four,Four-Stroke,6-Speed,76,55,19,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1455,825,120/70-ZR17,190/55-ZR17,No
+Kawasaki,ninja zx-10r,2020,Sport,NA,998,200,113,In-Line Four,Four-Stroke,6-Speed,76,55,17,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1440,835,120/70-ZR17,190/55-ZR17,No
+Kawasaki,ninja zx-10r se,2020,Sport,NA,998,200,113,In-Line Four,Four-Stroke,6-Speed,76,55,17,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1440,835,120/70-ZR17,190/55-ZR17,No
+Kawasaki,ninja zx-10rr,2020,Sport,NA,998,204,115,In-Line Four,Four-Stroke,6-Speed,76,55,17,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1440,835,120/70-ZR17,190/55-ZR17,No
+Kawasaki,ninja zx-14r abs,2020,Sport,3.7,1441,207,158,In-Line Four,Four-Stroke,6-Speed,84,65,22,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1481,800,120/70-ZR17,190/50-ZR17,No
+Kawasaki,ninja zx-14r brembo ohlins,2020,Sport,3.5,1441,207,158,In-Line Four,Four-Stroke,6-Speed,84,65,22,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1480,800,120/70-ZR17,190/50-ZR17,No
+Kawasaki,ninja zx-6r,2020,Sport,3.5,636,126,70.8,In-Line Four,Four-Stroke,6-Speed,67,45.1,17,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1400,830,120/70-ZR17,180/55-ZR17,No
+Kawasaki,ninja zx-6r performance,2020,Sport,NA,636,126,71,In-Line Four,Four-Stroke,6-Speed,67,45.1,17,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1395,830,120/70-ZR17,180/55-ZR17,No
+Kawasaki,rouser 200ns,2020,Naked Bike,NA,199.5,24.1,18.3,Single Cylinder,Four-Stroke,6-Speed,NA,NA,12,Single Overhead Cams (Sohc),Liquid,Chain,NA,NA,NA,100/80-17,130/70-17,No
+Kawasaki,rouser rs200,2020,Sport,NA,199.5,24.1,18.6,Single Cylinder,Four-Stroke,6-Speed,NA,NA,13,Single Overhead Cams (Sohc),Liquid,Chain,165,1355,NA,100/80-17,130/70-17,No
+Kawasaki,versys 1000,2020,Allround,3.3,1043,120,102,In-Line Four,Four-Stroke,6-Speed,77,56,21,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1520,840,120/70-ZR17,180/55-ZR17,No
+Kawasaki,versys 1000 grand tourer,2020,Allround,NA,1043,118,102,In-Line Four,Four-Stroke,6-Speed,77,56,21,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1520,840,120/70-ZR17,180/55-ZR17,No
+Kawasaki,versys 1000 se,2020,Allround,3.3,1043,120,102,In-Line Four,Four-Stroke,6-Speed,77,56,21,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1520,840,120/70-ZR17,180/55-ZR17,No
+Kawasaki,versys 1000 se lt plus,2020,Sport Touring,NA,1043,120,102,In-Line Four,Four-Stroke,6-Speed,77,56,20.82,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1519,841,120/70-17,180/55-17,No
+Kawasaki,versys 1000 tourer,2020,Sport Touring,NA,1043,118,102,In-Line Four,Four-Stroke,6-Speed,77,56,21,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1520,840,120/70-ZR17,180/55-ZR17,No
+Kawasaki,versys 650,2020,Allround,4,649,69,64,Twin,Four-Stroke,6-Speed,83,60,21,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,216.1,1415,840,120/70-ZR17,160/60-ZR17,Yes
+Kawasaki,versys 650l,2020,Allround,NA,649,52.3,57,Twin,Four-Stroke,6-Speed,83,60,21,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,216,1415,840,120/70-ZR17,160/60-ZR17,Yes
+Kawasaki,versys-x 300,2020,Allround,3.4,296,NA,26,Twin,Four-Stroke,6-Speed,62,49,17,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,175,1450,815,100/90-M19,130/80-M17,No
+Kawasaki,versys-x 300 adventure,2020,Allround,NA,296,39.3,25.1,Twin,Four-Stroke,6-Speed,62,49,17,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1450,845,100/90-M19,130/80-M17,No
+Kawasaki,versys-x 300 urban,2020,Allround,NA,296,39.3,25.1,Twin,Four-Stroke,6-Speed,62,49,17,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,175,1450,845,100/90-M19,130/80-M17,No
+Kawasaki,vulcan 1700 abs voyager,2020,Touring,3.6,1700,73,145,V2,Four-Stroke,6-Speed,102,104,20.06,Single Overhead Cams (Sohc),Liquid,Belt,NA,1664,729,130/90-B16,170/70-B16,No
+Kawasaki,vulcan 1700 vaquero abs,2020,Touring,NA,1700,NA,145,V2,Four-Stroke,6-Speed,102,104,20.06,Single Overhead Cams (Sohc),Liquid,Belt,NA,1666,729,130/90-16,170/70-16,No
+Kawasaki,vulcan 900 classic,2020,Custom / Cruiser,3.6,903,49.6,78,V2,Four-Stroke,5-Speed,88,74.2,20,Single Overhead Cams (Sohc),Liquid,Belt,NA,1645,680,130/70-15,180/70-15,No
+Kawasaki,vulcan 900 custom,2020,Custom / Cruiser,3.5,903,49.6,78,V2,Four-Stroke,5-Speed,88,74.2,20,Single Overhead Cams (Sohc),Liquid,Belt,NA,1645,685,80/90-21,180/70-15,No
+Kawasaki,vulcan s,2020,Custom / Cruiser,3.6,649,60.4,63,Twin,Four-Stroke,6-Speed,83,60,14,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1575,705,120/70-18,160/60-17,No
+Kawasaki,vulcan s  cafe,2020,Custom / Cruiser,NA,649,48,53,Twin,Four-Stroke,6-Speed,83,60,14,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1575,705,120/70-18,160/60-17,No
+Kawasaki,vulcan s performance,2020,Custom / Cruiser,NA,649,60.4,63,Twin,Four-Stroke,6-Speed,83,60,14,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1575,705,120/70-18,160/60-17,No
+Kawasaki,vulcan s se,2020,Custom / Cruiser,NA,649,46.9,53,Twin,Four-Stroke,NA,83,60,14,Double Overhead Cams/Twin Cam (Dohc),NA,Chain,NA,1575,705,120/70-18,160/60-17,No
+Kawasaki,vulcan s tourer,2020,Custom / Cruiser,NA,649,60.4,63,Twin,Four-Stroke,6-Speed,83,60,14,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1575,705,120/70-18,160/60-17,No
+Kawasaki,w800,2020,Allround,3.7,773,NA,62.9,V2,Four-Stroke,5-Speed,77,83,15.14,Single Overhead Cams (Sohc),Air,Chain,NA,1466,790,100/90-19,130/80-18,No
+Kawasaki,w800 street,2020,Allround,NA,773,46.9,62.9,V2,Four-Stroke,5-Speed,77,83,15.14,Single Overhead Cams (Sohc),Air,Chain,NA,1466,770,100/90-18,130/80-18,No
+Kawasaki,z 400 abs,2020,Classic,NA,399,27,38,Twin,Four-Stroke,5-Speed,70,51.8,14,Overhead Cams (Ohc),Air,Chain,NA,1369,785,110/70-17M,150/60-17M,No
+Kawasaki,z h2,2020,Naked Bike,3.4,998,NA,137,In-Line Four,Four-Stroke,6-Speed,76,55,18.93,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1455,831,120/70-17,190/55-17,No
+Kawasaki,z1000,2020,Naked Bike,3.7,1043,142,111,In-Line Four,Four-Stroke,6-Speed,77,56,17,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1435,815,120/70-ZR17,190/50-ZR17,No
+Kawasaki,z1000r edition,2020,Naked Bike,3.7,1043,142,111,In-Line Four,Four-Stroke,6-Speed,77,56,17,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1435,815,120/70-ZR17,190/50-ZR17,No
+Kawasaki,z125,2020,Naked Bike,NA,125,14.8,11.7,Single Cylinder,Four-Stroke,NA,58,47.2,11,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1176,815,100/80-17,130/70-17,No
+Kawasaki,z400,2020,Naked Bike,3.1,399,45,38,Twin,Four-Stroke,6-Speed,70,51.8,14,Overhead Cams (Ohc),Air,Chain,167,1369,785,110/70-17M,150/60-17M,No
+Kawasaki,z650,2020,Naked Bike,3.6,649,67.3,65.7,Twin,Four-Stroke,6-Speed,83,60,15.14,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1410,790,120/70-ZR17,160/60-ZR17,No
+Kawasaki,z650l,2020,Naked Bike,NA,649,50.7,59,Twin,Four-Stroke,6-Speed,83,60,15,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1410,790,120/70-ZR17,160/60-ZR17,No
+Kawasaki,z900,2020,Naked Bike,3.6,948,NA,99.1,In-Line Four,Four-Stroke,6-Speed,73.4,56,17.03,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1455,800,120/70-ZR17,180/55-ZR17,No
+Kawasaki,z900rs,2020,Classic,3.9,948,110,98.5,In-Line Four,Four-Stroke,6-Speed,73.4,56,17.03,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1470,836,120/70-ZR17,180/55-ZR17,No
+Kawasaki,z900rs black edition,2020,Allround,NA,948,110,98.5,In-Line Four,Four-Stroke,6-Speed,73.4,56,17,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1470,835,120/70-ZR17,180/55-ZR17,No
+Kawasaki,z900rs cafe,2020,Classic,3.7,948,110,98.5,In-Line Four,Four-Stroke,6-Speed,73.4,56,17.03,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1470,836,120/70-ZR17,180/55-ZR17,No
+Kawasaki,zzr1400,2020,Sport,NA,1441,200,158,In-Line Four,Four-Stroke,6-Speed,84,65,22,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1480,800,120/70-ZR17,190/50-ZR17,No
+Kawasaki,zzr1400 performance sport,2020,Sport,NA,1441,200,158,In-Line Four,Four-Stroke,6-Speed,84,65,22,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1480,800,120/70-ZR17,190/50-ZR17,No
+Ktm,125 duke,2020,Naked Bike,2.6,125,15,12,Single Cylinder,Four-Stroke,6-Speed,58,47.2,13.4,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,139,1357,830,110-17,150-17,No
+Ktm,125 sx,2020,Enduro / Offroad,NA,124.8,15,NA,Single Cylinder,Two-Stroke,6-Speed,54,54.5,NA,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,137,NA,NA,110-17,150-17,No
+Ktm,1290 super adventure r,2020,Allround,3.4,1301,158,140,V2,Four-Stroke,6-Speed,108,71,23,NA,Liquid,Chain,217,1580,890,90/90-21,150/70-18,Yes
+Ktm,1290 super adventure s,2020,Allround,3.5,1301,160,140,V2,Four-Stroke,6-Speed,108,71,23,NA,Liquid,Chain,215,1580,860,120/70-ZR19,170/60-ZR17,No
+Ktm,1290 super duke gt,2020,Naked Bike,3.7,1301,173,141,V2,Four-Stroke,6-Speed,108,71,23,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,209,1482,835,NA,NA,No
+Ktm,1290 super duke r,2020,Naked Bike,3.4,1301,177,140,V2,Four-Stroke,6-Speed,108,71,16,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,189,1482,835,120/70-17,200/55-17,No
+Ktm,150 exc tpi,2020,Enduro / Offroad,NA,143.7,NA,NA,Single Cylinder,Two-Stroke,6-Speed,58,54.5,9,NA,Liquid,Chain,96.8,1471,960,NA,NA,No
+Ktm,150 sx,2020,Cross / Motocross,NA,144,NA,NA,Single Cylinder,Two-Stroke,6-Speed,58,54.5,7,NA,Liquid,Chain,87.5,1485,950,NA,NA,No
+Ktm,250 exc tpi six days,2020,Enduro / Offroad,3.5,249,NA,NA,Single Cylinder,Two-Stroke,6-Speed,66.4,72,9,NA,Liquid,Chain,103.9,1482,960,NA,NA,No
+Ktm,250 exc-f six days,2020,Enduro / Offroad,NA,249.9,NA,NA,Single Cylinder,Four-Stroke,6-Speed,78,52.3,9,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,103.5,NA,960,NA,NA,No
+Ktm,250 sx,2020,Cross / Motocross,NA,249,NA,NA,Single Cylinder,Two-Stroke,5-Speed,66.4,72,7.5,NA,Liquid,Chain,95.5,1495,950,80/100-21,110/90-19,No
+Ktm,250 sxf prado,2020,Cross / Motocross,NA,249.9,NA,NA,Single Cylinder,Four-Stroke,5-Speed,78,52.3,7,NA,Liquid,Chain,99,1495,950,80/100-21,110/90-19,No
+Ktm,300 exc tpi,2020,Enduro / Offroad,3.2,293.2,NA,NA,Single Cylinder,Two-Stroke,6-Speed,72,72,9,Single Overhead Cams (Sohc),Liquid,Chain,103.4,1482,960,NA,NA,No
+Ktm,300 exc tpi erzbergrodeo,2020,Enduro / Offroad,NA,293.2,NA,NA,Single Cylinder,Two-Stroke,6-Speed,72,72,9,Single Overhead Cams (Sohc),Liquid,Chain,103.9,1482,960,NA,NA,No
+Ktm,300 exc tpi six days,2020,Enduro / Offroad,NA,293.2,NA,NA,Single Cylinder,Two-Stroke,6-Speed,72,72,9,NA,Liquid,Chain,103.9,1482,960,NA,NA,No
+Ktm,350 exc-f,2020,Enduro / Offroad,3.8,349.7,NA,NA,Single Cylinder,Four-Stroke,6-Speed,88,57.5,9.2,NA,Liquid,Chain,103.8,1482,960,NA,NA,No
+Ktm,350 exc-f six days,2020,Enduro / Offroad,NA,349.7,45,NA,Single Cylinder,Four-Stroke,6-Speed,88,57.5,9,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,104.3,1482,960,NA,NA,No
+Ktm,390 adventure,2020,Enduro / Offroad,3.6,373.2,44,37,Single Cylinder,Four-Stroke,6-Speed,89,60,14.5,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,148,1357,855,110/90-17,150/60-17,Yes
+Ktm,390 duke,2020,Naked Bike,3.4,373,44,37,Single Cylinder,Four-Stroke,6-Speed,89,60,13.4,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,149,1357,830,110/90-17,150/60-17,No
+Ktm,450 exc-f,2020,Enduro / Offroad,3.6,449.3,NA,NA,Single Cylinder,Four-Stroke,6-Speed,95,63.4,9.2,Single Overhead Cams (Sohc),Liquid,Chain,105.5,1482,960,NA,NA,No
+Ktm,450 exc-f six days,2020,Enduro / Offroad,3.7,449.9,NA,NA,Single Cylinder,Four-Stroke,NA,95,63.4,9,NA,Liquid,Chain,106,NA,960,NA,NA,No
+Ktm,450 rally replica,2020,Enduro / Offroad,NA,449.3,NA,NA,Single Cylinder,Four-Stroke,6-Speed,95,63.4,8.5,Single Overhead Cams (Sohc),Liquid,Chain,139,1482,960,NA,NA,No
+Ktm,450 sx-f,2020,Cross / Motocross,NA,449.3,63,NA,Single Cylinder,Four-Stroke,4-Speed,95,63.4,7,Single Overhead Cams (Sohc),Liquid,Chain,100,1485,950,NA,NA,No
+Ktm,450 sx-f cairoli,2020,Cross / Motocross,NA,449.3,63,NA,Single Cylinder,Four-Stroke,4-Speed,95,63.4,7,Single Overhead Cams (Sohc),Liquid,Chain,100,1485,950,NA,NA,No
+Ktm,500 exc-f,2020,Enduro / Offroad,3.5,510.9,NA,NA,Single Cylinder,Four-Stroke,6-Speed,95,72,9.2,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,105.6,1482,960,NA,NA,No
+Ktm,500 exc-f six days,2020,Enduro / Offroad,NA,510.9,NA,NA,Single Cylinder,Four-Stroke,6-Speed,95,72,9,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,106,1482,960,NA,NA,No
+Ktm,690 enduro r,2020,Enduro / Offroad,3.6,693,73.8,73.5,Single Cylinder,Four-Stroke,6-Speed,105,80,13.5,NA,Liquid,Chain,146,1504,910,NA,NA,No
+Ktm,690 smc r,2020,Super Motard,3.3,693,73.8,73.5,Single Cylinder,Four-Stroke,6-Speed,105,80,13.5,Overhead Cams (Ohc),Liquid,Chain,147,1480,890,NA,NA,No
+Ktm,790 adventure,2020,Allround,3.7,799,93.9,88,Twin,Four-Stroke,6-Speed,88,65.7,20,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,189,1475,850,NA,NA,Yes
+Ktm,790 adventure r,2020,Allround,3.5,799,93.9,88,Twin,Four-Stroke,6-Speed,88,65.7,20,NA,Liquid,Chain,189,NA,910,NA,NA,Yes
+Ktm,790 duke,2020,Naked Bike,3.4,799,105,87,Twin,Four-Stroke,6-Speed,88,65.7,14,NA,Liquid,Chain,169,1475,825,NA,NA,No
+Ktm,790 duke l,2020,Naked Bike,NA,799,93.9,86,Twin,Four-Stroke,6-Speed,88,65.7,14,NA,Liquid,Chain,169,1475,825,NA,NA,No
+Ktm,85 sx 19-16,2020,Cross / Motocross,NA,84.9,NA,NA,Single Cylinder,Two-Stroke,6-Speed,47,49,5,NA,Liquid,Chain,68,1290,890,NA,NA,No
+Ktm,890 duke r,2020,Naked Bike,3.8,890,119,99,Twin,Four-Stroke,6-Speed,90.7,68.8,14,NA,Liquid,Chain,166,1475,825,NA,NA,No
+Ktm,freeride 250 f,2020,Enduro / Offroad,3.1,249.9,NA,NA,Single Cylinder,Four-Stroke,5-Speed,78,52.3,5.5,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,98.5,1485,915,NA,NA,No
+Ktm,rc 125,2020,Sport,NA,125,15,12,Single Cylinder,Four-Stroke,6-Speed,58,47.2,9.5,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,139,1340,820,110/90-R17,150/70-R17,No
+Ktm,rc 390,2020,Sport,3.9,373.2,44,35,Single Cylinder,Four-Stroke,6-Speed,89,60,9.5,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,149,1340,820,95/75-R17,115/75-R17,No
+Ktm,sx-e 5,2020,Sport,NA,NA,2.7,13.8,Electric,Electric,NA,NA,NA,NA,NA,Air,Chain,NA,NA,665,NA,NA,No
+Moto Guzzi,audace,2020,Naked Bike,NA,1380,96,121,V2,Four-Stroke,6-Speed,104,81.2,20.5,NA,Oil & Air,Shaft Drive,NA,1695,740,130/70-18,200/60-16,No
+Moto Guzzi,california 1400 touring,2020,Touring,3,1380,96,121,V2,Four-Stroke,6-Speed,104,81.2,20.5,NA,Oil & Air,Shaft Drive,326,1685,740,130/70-18,200/60-16,No
+Moto Guzzi,eldorado,2020,Allround,3.6,1380,96,121,V2,Four-Stroke,6-Speed,104,81.2,20.5,NA,Oil & Air,Shaft Drive,NA,1695,740,100/90-18,130/80-17,No
+Moto Guzzi,mgx-21,2020,Custom / Cruiser,NA,1380,96.6,121,V2,Four-Stroke,6-Speed,104,81.2,20.5,NA,Oil & Air,Shaft Drive,NA,1700,740,120/70-21,180/60-16,No
+Moto Guzzi,v7 iii carbon,2020,Classic,NA,744,52,60,V2,Four-Stroke,5-Speed,80,74,21,Pushrods,Air,Shaft Drive,189,1445,770,100/90-18,130/80-17,No
+Moto Guzzi,v7 iii limited,2020,Classic,NA,744,52,60,V2,Four-Stroke,5-Speed,80,74,21,NA,Air,Shaft Drive,NA,NA,770,100/90-18,130/80-18,No
+Moto Guzzi,v7 iii racer,2020,Classic,3.6,744,52,60,V2,Four-Stroke,5-Speed,80,74,21,NA,Air,Shaft Drive,NA,1463,770,100/90-18,130/80-17,No
+Moto Guzzi,v7 iii rough,2020,Classic,3.9,744,52,60,V2,Four-Stroke,5-Speed,80,74,21,Pushrods,Air,Shaft Drive,NA,1445,770,100/90-18,130/80-17,No
+Moto Guzzi,v7 iii stone,2020,Classic,3.7,744,52,60,V2,Four-Stroke,5-Speed,80,74,21,NA,NA,Shaft Drive,NA,1463,770,100/90-18,130/80-17,No
+Moto Guzzi,v7 iii stone night pack,2020,Classic,3.5,744,52,60,V2,Four-Stroke,5-Speed,80,74,21,NA,Air,Shaft Drive,NA,NA,770,100/90-18,130/80-17,No
+Moto Guzzi,v7iii milano,2020,Classic,NA,744,52,60,V2,Four-Stroke,5-Speed,80,74,21,NA,Air,Shaft Drive,NA,NA,770,100/90-18,130/80-17,No
+Moto Guzzi,v7iii special,2020,Classic,3.8,744,52,60,V2,Four-Stroke,5-Speed,80,74,21,NA,NA,Shaft Drive,NA,1463,770,100/90-18,130/80-17,No
+Moto Guzzi,v7iii stone s,2020,Allround,NA,744,52,60,V2,Four-Stroke,5-Speed,80,74,21,NA,Air,Shaft Drive,NA,1463,770,100/90-18,130/80-17,No
+Moto Guzzi,v85 tt travel,2020,Enduro / Offroad,3.5,853,80,80,V2,Four-Stroke,6-Speed,84,77,23,Overhead Valves (Ohv),Air,Shaft Drive,208,NA,803,110/80-19,150/70-17,No
+Moto Guzzi,v9 bobber,2020,Allround,NA,853,55,62,V2,Four-Stroke,5-Speed,NA,NA,15,NA,Air,Shaft Drive,NA,1465,808,130/90-16,150/80-16,No
+Moto Guzzi,v9 bobber sport,2020,Allround,NA,853,55,62,V2,Four-Stroke,5-Speed,84,77,15,NA,Air,Shaft Drive,NA,1465,808,130/90-16,150/80-16,No
+Moto Guzzi,v9 roamer,2020,Classic,NA,853,55,62,V2,Four-Stroke,5-Speed,NA,NA,15,NA,Air,Shaft Drive,NA,1465,818,100/90-19,150/80-16,No
+Piaggio,beverly 300 abs asr,2020,Scooter,3.3,278,20.8,22.5,Single Cylinder,Four-Stroke,Automatic,75,63,12.5,Single Overhead Cams (Sohc),Liquid,NA,173.5,1535,790,NA,NA,No
+Piaggio,beverly 350 abs asr,2020,Scooter,NA,350,30.2,29,Single Cylinder,Four-Stroke,Automatic,78,69,12.5,Single Overhead Cams (Sohc),Liquid,Belt,NA,1560,790,110/70-16,150/70-14,No
+Piaggio,beverly 350 s  abs asr,2020,Scooter,3.4,350,30.2,29,Single Cylinder,Four-Stroke,Automatic,78,69,12.5,Single Overhead Cams (Sohc),Liquid,Belt,NA,1560,790,110/70-16,150/70-14,No
+Piaggio,beverly s 300 abs asr,2020,Scooter,NA,278,20.8,22.5,Single Cylinder,Four-Stroke,Automatic,75,63,12.5,Single Overhead Cams (Sohc),Liquid,NA,173.5,1535,790,NA,NA,No
+Piaggio,liberty 150  s abs,2020,Scooter,3.4,155,12.9,13,Single Cylinder,Four-Stroke,NA,58,58.6,6,Single Overhead Cams (Sohc),Air,NA,NA,1340,790,90/80-16,100/80-14,No
+Piaggio,liberty 150 abs,2020,Scooter,3.2,155,12.9,13,Single Cylinder,Four-Stroke,NA,58,58.6,6,Single Overhead Cams (Sohc),Air,NA,NA,1340,790,90/80-16,100/80-14,No
+Piaggio,medley  s 150 i-get,2020,Scooter,3.6,155,16.2,15,Single Cylinder,Four-Stroke,Automatic,58,58.7,7,Single Overhead Cams (Sohc),Liquid,Belt,NA,1390,799,100/80-16,120/70-14,No
+Piaggio,medley 125 i-get,2020,Scooter,NA,125,14.8,12,Single Cylinder,Four-Stroke,Automatic,52,58.7,7,Single Overhead Cams (Sohc),Liquid,Belt,NA,1390,799,110/80-16,110/80-14,No
+Piaggio,medley 150 i-get,2020,Scooter,NA,155,16.2,15,Single Cylinder,Four-Stroke,NA,58,58.7,7,Single Overhead Cams (Sohc),Liquid,Belt,NA,1390,799,100/80-16,120/70-14,No
+Piaggio,medley s 125i-get,2020,Scooter,NA,125,14.8,12,Single Cylinder,Four-Stroke,Automatic,52,58.7,7,Single Overhead Cams (Sohc),Liquid,Belt,NA,1390,799,110/80-16,110/80-14,No
+Piaggio,mp3 300 hpe,2020,Scooter,NA,278,25.9,26,Single Cylinder,Four-Stroke,NA,75,63,NA,Single Overhead Cams (Sohc),Liquid,NA,NA,NA,NA,NA,NA,No
+Piaggio,mp3 300 hpe sport,2020,Scooter,NA,278,25.9,26,Single Cylinder,Four-Stroke,NA,75,63,NA,Single Overhead Cams (Sohc),Liquid,NA,NA,NA,NA,NA,NA,No
+Piaggio,mp3 350,2020,Scooter,NA,330,30.2,29,Single Cylinder,Four-Stroke,NA,78,69,12,Single Overhead Cams (Sohc),Liquid,NA,NA,1545,790,NA,NA,No
+Piaggio,mp3 500 hpe sport advanced,2020,Scooter,NA,493,42.9,47.5,Single Cylinder,Four-Stroke,NA,94,71,13.2,Single Overhead Cams (Sohc),Liquid,NA,NA,1540,790,NA,NA,No
+Piaggio,mp3 buisness 500 hpe abs asr,2020,Scooter,NA,493,44.2,47.5,Single Cylinder,Four-Stroke,NA,94,71,12,Single Overhead Cams (Sohc),Liquid,NA,NA,1540,790,NA,NA,No
+Suzuki,ax4,2020,Naked Bike,NA,149.5,11,11.5,Single Cylinder,Four-Stroke,5-Speed,57,58.6,12.5,NA,Air,Chain,NA,1310,765,2.75-18,90/90-18,No
+Suzuki,axelo 125,2020,Scooter,NA,124,NA,NA,Single Cylinder,Four-Stroke,4-Speed,53.5,55.2,4.3,Single Overhead Cams (Sohc),Air,Chain,108,1220,NA,70/90-R17,80/90-R17,No
+Suzuki,boulevard c50,2020,Custom / Cruiser,NA,805,53,69,V2,Four-Stroke,5-Speed,83,74.4,15.52,Single Overhead Cams (Sohc),Liquid,Shaft Drive,NA,1655,700,130/90-M16,170/80-M15,No
+Suzuki,boulevard c50t,2020,Touring,NA,805,53,69,V2,Four-Stroke,5-Speed,83,74.4,15.52,Single Overhead Cams (Sohc),Liquid,Shaft Drive,NA,1655,700,130/90-M16,170/80-M15,No
+Suzuki,boulevard m109r b o s s,2020,Custom / Cruiser,4,1783,125,160,V2,Four-Stroke,5-Speed,112,90.5,18.55,Double Overhead Cams/Twin Cam (Dohc),Liquid,Shaft Drive,NA,1710,705,130/70-R18,240/40-R18,No
+Suzuki,burgman 125 street,2020,Scooter,3.2,124,8.7,10.2,Single Cylinder,Four-Stroke,Automatic,52.5,57.4,5.6,Single Overhead Cams (Sohc),Liquid,Belt,108,1265,780,90/90-12,90/100-10,No
+Suzuki,burgman 200,2020,Scooter,3.4,200,NA,NA,Single Cylinder,Four-Stroke,Automatic,69,53.4,10.5,Single Overhead Cams (Sohc),Liquid,Belt,150,1465,735,110/90-13,130/70-12,No
+Suzuki,burgman 400,2020,Scooter,3,399,NA,NA,Single Cylinder,Four-Stroke,Automatic,81,77.6,13.25,Double Overhead Cams/Twin Cam (Dohc),Liquid,Belt,215,1580,755,120/70-M15,150/70-M13,No
+Suzuki,burgman 650 executive,2020,Scooter,3.2,638,56,62,Twin,Four-Stroke,Automatic,75.5,71.3,15,Double Overhead Cams/Twin Cam (Dohc),Liquid,Belt,NA,1585,760,120/70-R15,160/60-R14,No
+Suzuki,dr 650 se,2020,Super Motard,3.4,644,NA,NA,Single Cylinder,Four-Stroke,5-Speed,100,82,13,Single Overhead Cams (Sohc),Air,Chain,NA,1490,885,90/90-S21,120/90-S17,No
+Suzuki,dr-z125l,2020,Enduro / Offroad,NA,124,NA,NA,Single Cylinder,Four-Stroke,5-Speed,57,48.8,NA,Single Overhead Cams (Sohc),Air,Chain,NA,1270,805,70/100-19,90/100-16,No
+Suzuki,dr-z400s,2020,Enduro / Offroad,3.3,398,NA,NA,Single Cylinder,Four-Stroke,5-Speed,90,62.6,10,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1485,935,80/100-M21,120/90-M18,No
+Suzuki,dr-z400sm,2020,Super Motard,NA,398,NA,NA,Single Cylinder,Four-Stroke,5-Speed,90,62.6,10,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1460,890,120/70-17,140/70-17,No
+Suzuki,dr-z50,2020,Enduro / Offroad,NA,49,NA,NA,Single Cylinder,Four-Stroke,3-Speed,39,41.8,3,Overhead Cams (Ohc),Air,Chain,NA,935,560,NA,NA,No
+Suzuki,dr200s,2020,Enduro / Offroad,3.1,199,NA,NA,Single Cylinder,Four-Stroke,5-Speed,66,58.2,13,Single Overhead Cams (Sohc),Air,Chain,NA,1405,845,70/100-21,100/90-18,No
+Suzuki,dr650s,2020,Super Motard,NA,644,NA,NA,Single Cylinder,Four-Stroke,5-Speed,100,82,13,Single Overhead Cams (Sohc),Oil & Air,Chain,NA,1490,845,90/90-21,120/90-17,No
+Suzuki,gd110,2020,Allround,NA,112.8,8.1,8.5,Single Cylinder,Four-Stroke,4-Speed,51,55.2,9,Single Overhead Cams (Sohc),Air,Chain,NA,1215,766,2.5-17,2.75-17,No
+Suzuki,gixxer sf 250,2020,Sport,NA,249,26.5,22.6,Single Cylinder,Four-Stroke,6-Speed,76,54.9,12,Single Overhead Cams (Sohc),Air,Chain,NA,1345,800,100/80-17,140/60-17,No
+Suzuki,gsx-r1000,2020,Sport,NA,999.8,198,117,In-Line Four,Four-Stroke,6-Speed,76,55.1,16,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1460,825,120/70-R17,190/55-R17,No
+Suzuki,gsx-r1000r,2020,Sport,NA,999,185,117,In-Line Four,Four-Stroke,6-Speed,76,55,16,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1485,825,120/70-ZR17,190/50-ZR17,No
+Suzuki,gsx-r150,2020,Sport,NA,147.3,18.9,14,Single Cylinder,Four-Stroke,6-Speed,62,48.8,11,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1300,785,90/80-M17,130/70-M17,No
+Suzuki,gsx-r600,2020,Sport,NA,599,NA,NA,In-Line Four,Four-Stroke,6-Speed,67,42.5,17,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1385,810,120/70-ZR17,180/55-ZR17,No
+Suzuki,gsx-r750,2020,Sport,NA,750,150,86.2,In-Line Four,Four-Stroke,6-Speed,70,48.7,17,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1390,810,120/70-ZR17,180/55-ZR17,No
+Suzuki,gsx-s1000,2020,Sport,3.7,999,NA,NA,In-Line Four,Four-Stroke,6-Speed,73.4,59,17,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,209,1460,815,120/70-ZR17,190/50-ZR17,No
+Suzuki,gsx-s1000f,2020,Sport,3.7,999,147,146,In-Line Four,Four-Stroke,6-Speed,73.4,59,17,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1460,810,120/70-ZR17,190/50-ZR17,No
+Suzuki,gsx-s150,2020,Sport,NA,147.3,18.9,14,Single Cylinder,Four-Stroke,6-Speed,62,48.8,11,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1300,785,90/80-M17,130/70-M17,No
+Suzuki,gsx-s750,2020,Sport,3.7,749,112,81,In-Line Four,Four-Stroke,6-Speed,72,46,16,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1455,820,120/70-ZR17,180/55-ZR17,No
+Suzuki,gsx-s750 abs,2020,Sport,3.6,749,106,80,In-Line Four,Four-Stroke,6-Speed,72,46,16,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1455,820,120/70-ZR17,180/55-ZR17,No
+Suzuki,gsx-s750z,2020,Naked Bike,NA,749,106,80,In-Line Four,Four-Stroke,6-Speed,72,46,16,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1455,820,120/70-17,180/55-17,No
+Suzuki,gsx250r,2020,Sport,NA,248,24,22,Twin,Four-Stroke,6-Speed,53.5,55.2,15,Single Overhead Cams (Sohc),Liquid,Chain,NA,1430,790,110/80-17,140/55-17,No
+Suzuki,gsx250r abs,2020,Sport,NA,248,25,22,Twin,Four-Stroke,6-Speed,53.5,55.2,15,Single Overhead Cams (Sohc),Liquid,Chain,NA,1430,790,110/80-17,140/55-17,No
+Suzuki,hayabusa,2020,Sport,NA,1340,197,155,In-Line Four,Four-Stroke,6-Speed,81,65,21,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1480,805,120/70-ZR17,190/50-ZR17,Yes
+Suzuki,intruder 150,2020,Custom / Cruiser,NA,154.9,14.8,14,Single Cylinder,Four-Stroke,5-Speed,56,62.9,11,Single Overhead Cams (Sohc),Air,NA,NA,1405,740,100/80-17,140/60-17,No
+Suzuki,katana,2020,Sport,3.3,999,147,108,In-Line Four,Four-Stroke,6-Speed,73,59,12,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1460,825,120/70-ZR17,190/50-ZR17,No
+Suzuki,kingquad 400asi,2020,Atv,NA,376,NA,NA,Single Cylinder,Four-Stroke,Automatic,82,71.2,16,Overhead Cams (Ohc),Air,Shaft Drive,NA,1270,840,25/8-12,25/10-12,No
+Suzuki,kingquad 500axi,2020,Atv,NA,493,NA,NA,Single Cylinder,Four-Stroke,Automatic,87.5,82,17.5,Overhead Cams (Ohc),Liquid,Shaft Drive,NA,1285,920,25/8-12,25/10-12,No
+Suzuki,kingquad 750axi,2020,Atv,NA,722,NA,NA,Single Cylinder,Four-Stroke,Automatic,104,85,17.5,Double Overhead Cams/Twin Cam (Dohc),Liquid,Belt,NA,1280,820,25/8-12,25/10-12,No
+Suzuki,rm-z250,2020,Cross / Motocross,NA,249,NA,NA,Single Cylinder,Four-Stroke,5-Speed,77,53.6,6.3,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1475,955,80/100-21,100/90-19,No
+Suzuki,rm-z450,2020,Cross / Motocross,NA,449,NA,NA,Single Cylinder,Four-Stroke,5-Speed,96,62.1,6.3,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1480,960,80/100-21,110/90-19,No
+Suzuki,rm85,2020,Cross / Motocross,NA,84.7,NA,NA,Single Cylinder,Two-Stroke,6-Speed,48,46.8,5,NA,Liquid,Chain,NA,1240,850,70/100-17,90/100-14,No
+Suzuki,rmx450z,2020,Enduro / Offroad,NA,449,NA,NA,Single Cylinder,Four-Stroke,5-Speed,96,62.1,6.2,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1485,950,80/100-21,110/90-18,No
+Suzuki,shooter 115fi,2020,Scooter,NA,113,9.3,9.1,Single Cylinder,Four-Stroke,4-Speed,51,55.4,3.7,Single Overhead Cams (Sohc),Air,Chain,NA,1220,755,70/90-17,80/90-17,No
+Suzuki,skydrive 125 fi,2020,Scooter,NA,124.1,9.3,9.5,Single Cylinder,Four-Stroke,Automatic,53.5,55.2,4,Single Overhead Cams (Sohc),Air,Belt,NA,1260,760,70/90-14,70/90-14,No
+Suzuki,smash 115,2020,Allround,NA,112.8,8.6,9,Single Cylinder,Four-Stroke,4-Speed,51,55.2,4.3,Single Overhead Cams (Sohc),Air,Chain,NA,1240,NA,70/90-17,80/90-17,No
+Suzuki,sv 650a,2020,Naked Bike,NA,645,75,64,V2,Four-Stroke,6-Speed,81,62.6,13.8,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1445,785,120/70-ZR17,160/60-ZR17,No
+Suzuki,sv650,2020,Naked Bike,NA,645,75,64,V2,Four-Stroke,6-Speed,81,62.6,14.5,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1445,785,120/70-ZR17,160/60-ZR17,No
+Suzuki,sv650 abs,2020,Sport,3.4,645,NA,NA,V2,Four-Stroke,6-Speed,81,62.6,14.5,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1445,785,120/70-ZR17,160/60-ZR17,No
+Suzuki,sv650x,2020,Naked Bike,NA,645,75,64,V2,Four-Stroke,6-Speed,81,62.6,14.5,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1445,790,120/70-ZR17,160/60-ZR17,No
+Suzuki,v-strom 1050,2020,Super Motard,3,1037,100,103,V2,Four-Stroke,6-Speed,100,66,20,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1555,850,110/80-R19,150/70-R17,Yes
+Suzuki,v-strom 1050xt,2020,Super Motard,3.7,1037,100,103,V2,Four-Stroke,6-Speed,100,66,20,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1555,850,110/80-R19,150/70-R17,Yes
+Suzuki,v-strom 1050xt adventure,2020,Super Motard,NA,1037,100,103,V2,Four-Stroke,6-Speed,100,66,20,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1555,850,110/80-R19,150/70-R17,Yes
+Suzuki,v-strom 250,2020,Super Motard,3.3,248,25,23.4,Twin,Four-Stroke,6-Speed,53.5,55.2,17.3,Single Overhead Cams (Sohc),Liquid,Chain,NA,1425,800,110/80-17,140/70-17,Yes
+Suzuki,v-strom 650,2020,Super Motard,NA,645,69,69,V2,Four-Stroke,6-Speed,81,62.6,20.06,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,213,1560,830,110/80-19,150/70-17,Yes
+Suzuki,v-strom 650xt,2020,Super Motard,3.5,645,69,69,V2,Four-Stroke,6-Speed,81,62.6,20,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1405,830,110/80-R19,150/70-R17,Yes
+Suzuki,v-strom 650xt adventure,2020,Super Motard,3.6,645,69,69,V2,Four-Stroke,6-Speed,81,62.6,20,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1405,830,110/80-R19,150/70-R17,Yes
+Triumph,bobber tfc,2020,Classic,NA,1200,86,110,Twin,Four-Stroke,6-Speed,97.6,80,9,Single Overhead Cams (Sohc),Liquid,Chain,228,1510,690,100/90-19,150/80-R16,No
+Triumph,bonneville bobber,2020,Allround,NA,1200,76,106,Twin,Four-Stroke,6-Speed,97.6,80,9,Single Overhead Cams (Sohc),Liquid,Chain,228,1510,690,100/90-19,150/80-R16,No
+Triumph,bonneville bobber black,2020,Classic,NA,1200,77,106,Twin,Four-Stroke,6-Speed,97.6,80,9,Single Overhead Cams (Sohc),Liquid,Chain,237.5,1510,690,100/90-19,150/80-R16,No
+Triumph,bonneville speedmaster,2020,Classic,3.5,1200,77,106,Twin,Four-Stroke,6-Speed,97.6,80,12,Single Overhead Cams (Sohc),Liquid,Chain,245.5,1510,705,130/90-B16,150/80-R16,No
+Triumph,bonneville t100,2020,Allround,3.6,900,55,80,Twin,Four-Stroke,5-Speed,84.6,80,14.5,Double Overhead Cams/Twin Cam (Dohc),Air,Chain,213,1450,790,100/90-18,150/70-R17,Yes
+Triumph,bonneville t100 black,2020,Classic,NA,900,55,80,Twin,Four-Stroke,5-Speed,84.6,80,14.5,Double Overhead Cams/Twin Cam (Dohc),Air,Chain,213,1450,790,100/90-18,150/70-R17,Yes
+Triumph,bonneville t100 bud ekins,2020,Classic,NA,900,55,80,Twin,Four-Stroke,5-Speed,84.6,80,14.38,Single Overhead Cams (Sohc),Air,Chain,213,1450,790,100/90-18,150/70-R17,Yes
+Triumph,bonneville t120,2020,Classic,3.4,1200,79.1,105,Twin,Four-Stroke,6-Speed,97.6,80,14.5,Single Overhead Cams (Sohc),Air,Chain,224,1450,790,100/90-18,150/70-R17,No
+Triumph,bonneville t120 bud ekins,2020,Classic,NA,1200,80,105,Twin,Four-Stroke,6-Speed,97.6,80,14.5,Single Overhead Cams (Sohc),Air,Chain,224,1450,790,100/90-18,150/70-R17,No
+Triumph,daytona moto tm 765 limited edition,2020,Sport,NA,765,128,80,In-Line Three,Four-Stroke,6-Speed,78,53.4,17.41,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,165,1379,822,120/70-ZR17,180/55-ZR17,No
+Triumph,rocket 3 gt,2020,Custom / Cruiser,3.3,2458,165,221,In-Line Three,Four-Stroke,6-Speed,110.2,85.9,18,Double Overhead Cams/Twin Cam (Dohc),Liquid,Shaft Drive,294,1677,750,150/80-R17,240/50-R16,No
+Triumph,rocket 3 r,2020,Custom / Cruiser,NA,2458,165,221,In-Line Three,Four-Stroke,6-Speed,110.2,85.9,18,Double Overhead Cams/Twin Cam (Dohc),Liquid,Shaft Drive,290,1677,773,150/80-R17,240/50-R16,No
+Triumph,rocket 3 tfc,2020,Custom / Cruiser,NA,2458,182,225,In-Line Three,Four-Stroke,6-Speed,110.2,85.9,18,Double Overhead Cams/Twin Cam (Dohc),Liquid,Shaft Drive,290,NA,773,150/80-R17,240/50-R16,No
+Triumph,scrambler 1200 xc,2020,Classic,NA,1200,88.8,110,Twin,Four-Stroke,5-Speed,97.6,80,16,Single Overhead Cams (Sohc),Liquid,Chain,205,1530,840,90/90-21,150/70-17,No
+Triumph,scrambler 1200xe,2020,Classic,3.7,1200,89,110,Twin,Four-Stroke,5-Speed,97.6,80,16,Single Overhead Cams (Sohc),Liquid,Chain,207,1570,870,90/90-21,150/70-17,No
+Triumph,speed triple rs,2020,Naked Bike,3.6,1050,148,116,In-Line Three,Four-Stroke,NA,79,71.4,15.52,Double Overhead Cams/Twin Cam (Dohc),Liquid,NA,189,1445,825,120/70-17,190/55-17,No
+Triumph,speed triple s,2020,Naked Bike,NA,1050,148,116,In-Line Three,Four-Stroke,NA,79,71.4,15.52,Double Overhead Cams/Twin Cam (Dohc),Liquid,NA,192,1445,825,120/70-17,190/55-17,No
+Triumph,speed twin,2020,Allround,3.3,1200,96,112,Twin,Four-Stroke,6-Speed,97.6,80,14.5,Single Overhead Cams (Sohc),Liquid,Chain,196,1430,807,120/70-17,160/60-17,No
+Triumph,street scrambler,2020,Naked Bike,NA,900,64.1,80,Twin,Four-Stroke,5-Speed,84.6,80,12,Single Overhead Cams (Sohc),Liquid,Chain,203,1445,790,100/90-19,150/70-R17,No
+Triumph,street triple r lrh,2020,Naked Bike,NA,765,116,77,In-Line Three,Four-Stroke,6-Speed,78,53.4,17.4,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,166,1410,825,120/70-ZR17,180/55-ZR17,Yes
+Triumph,street triple rs,2020,Naked Bike,3.4,765,123,79,In-Line Three,Four-Stroke,6-Speed,78,53.4,17.4,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,166,1405,825,120/70-ZR17,180/55-ZR17,Yes
+Triumph,street triple s,2020,Naked Bike,3.8,760,53.2,61,In-Line Three,Four-Stroke,6-Speed,78,48.5,17.4,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,168,1410,810,120/70-ZR17,180/55-ZR17,Yes
+Triumph,street triple s a2 licence,2020,Naked Bike,NA,660,46.9,60,In-Line Three,Four-Stroke,6-Speed,76,48.5,17.4,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,168,1410,810,120/70-ZR17,180/55-ZR17,Yes
+Triumph,thruxton 1200,2020,Allround,NA,1200,97,112,Twin,Four-Stroke,6-Speed,97.6,80,14.5,Double Overhead Cams/Twin Cam (Dohc),Air,Chain,206,1415,810,120/70-ZR17,160/60-ZR17,No
+Triumph,thruxton 1200 r,2020,Classic,NA,1200,97,112,Twin,Four-Stroke,6-Speed,97.6,80,14.5,Single Overhead Cams (Sohc),Air,Chain,206,1415,810,120/70-ZR17,160/60-ZR17,No
+Triumph,thruxton 1200rs,2020,Classic,NA,1200,103,112,Twin,Four-Stroke,6-Speed,97.6,80,14.5,Single Overhead Cams (Sohc),Liquid,Chain,203,1415,810,120/70-ZR17,160/60-ZR17,No
+Triumph,thruxton tfc,2020,Classic,NA,1200,109,115,Twin,Four-Stroke,6-Speed,97.6,80,14.5,Single Overhead Cams (Sohc),Liquid,Chain,195,NA,815,120/70-ZR17,160/60-ZR17,No
+Triumph,tiger 1200 alpine edition,2020,Allround,3.6,1215,139,122,In-Line Three,Four-Stroke,6-Speed,85,71.4,20,Double Overhead Cams/Twin Cam (Dohc),Liquid,Shaft Drive,242,1520,835,120/70-R19,170/60-R17,No
+Triumph,tiger 1200 desert edition,2020,Allround,3.5,1215,139,122,In-Line Three,Four-Stroke,6-Speed,85,71.4,20,Double Overhead Cams/Twin Cam (Dohc),Liquid,Shaft Drive,246,1520,835,120/70-R19,170/60-R17,No
+Triumph,tiger 1200 xca,2020,Allround,NA,1215,141,122,In-Line Three,Four-Stroke,6-Speed,85,71.4,20,Double Overhead Cams/Twin Cam (Dohc),Liquid,Shaft Drive,248,1520,855,120/70-R19,170/60-R17,No
+Triumph,tiger 1200 xcx,2020,Allround,NA,1215,141,122,In-Line Three,Four-Stroke,6-Speed,85,71.4,20,Double Overhead Cams/Twin Cam (Dohc),Liquid,Shaft Drive,248,1520,835,120/70-R19,170/60-R17,No
+Triumph,tiger 1200 xr,2020,Allround,NA,1215,141,122,In-Line Three,Four-Stroke,6-Speed,85,71.4,20,Double Overhead Cams/Twin Cam (Dohc),Liquid,Shaft Drive,242,1520,835,120/70-R19,170/60-R17,No
+Triumph,tiger 1200 xrt,2020,Allround,3.3,1215,139,122,In-Line Three,Four-Stroke,6-Speed,85,71.4,20,Double Overhead Cams/Twin Cam (Dohc),Liquid,Shaft Drive,243,1520,835,120/70-R19,170/60-R17,No
+Triumph,tiger 1200 xrx,2020,Allround,NA,1215,139,122,In-Line Three,Four-Stroke,6-Speed,85,71.4,20,Double Overhead Cams/Twin Cam (Dohc),Liquid,Shaft Drive,244,1520,810,120/70-R19,170/60-R17,No
+Triumph,tiger 1200 xrx explorer,2020,Allround,NA,1215,139,123,In-Line Three,Four-Stroke,6-Speed,85,71.4,20,Double Overhead Cams/Twin Cam (Dohc),Liquid,Shaft Drive,246,1520,837,120/70-R19,170/60-R17,No
+Triumph,tiger 1200 xrx low,2020,Allround,NA,1215,141,122,In-Line Three,Four-Stroke,6-Speed,85,71.4,20,Double Overhead Cams/Twin Cam (Dohc),Liquid,Shaft Drive,244,1520,785,120/70-R19,170/60-R17,No
+Triumph,tiger 800 xca,2020,Super Motard,3.8,800,95,79,In-Line Three,Four-Stroke,6-Speed,74.1,61.9,19,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,208,1545,840,90/90-21,150/70-R17,No
+Triumph,tiger 800 xcx,2020,Super Motard,NA,800,95,79,In-Line Three,Four-Stroke,6-Speed,74.1,61.9,19,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,205,1545,760,90/90-19,150/70-R17,No
+Triumph,tiger 800 xr,2020,Super Motard,NA,800,93.9,79,In-Line Three,Four-Stroke,6-Speed,74.1,61.9,19,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,199,1530,810,100/90-19,150/70-R17,No
+Triumph,tiger 800 xrt,2020,Super Motard,NA,800,95,79,In-Line Three,Four-Stroke,6-Speed,74,61.9,19,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,202,1530,810,100/90-19,150/70-17,No
+Triumph,tiger 800 xrx,2020,Super Motard,NA,800,95,79,In-Line Three,Four-Stroke,6-Speed,74.1,61.9,19,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,200,1530,810,100/90-19,150/70-R17,No
+Triumph,tiger 800 xrx low,2020,Super Motard,NA,800,95,79,In-Line Three,Four-Stroke,6-Speed,74.1,61.9,19,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,199,1530,760,100/90-19,150/70-R17,No
+Triumph,tiger 900 gt,2020,Enduro / Offroad,NA,888,93.9,87,In-Line Three,Four-Stroke,6-Speed,78,61.9,20,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,192,1556,810,100/90-19,150/70-R17,No
+Triumph,tiger 900 gt low,2020,Enduro / Offroad,NA,888,93.9,87,In-Line Three,Four-Stroke,6-Speed,78,61.9,20,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,192,1556,810,100/90-19,150/70-R17,No
+Triumph,tiger 900 gt pro,2020,Enduro / Offroad,3.4,888,93.9,87,In-Line Three,Four-Stroke,6-Speed,78,61.9,20,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,198,1556,810,100/90-19,150/70-R17,No
+Triumph,tiger 900 rally,2020,Enduro / Offroad,NA,888,93.9,87,In-Line Three,Four-Stroke,6-Speed,78,61.9,20,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,196,1551,850,90/90-21,150/70-R17,No
+Triumph,tiger 900 rally pro,2020,Enduro / Offroad,3.8,888,93.9,87,In-Line Three,Four-Stroke,6-Speed,78,61.9,20,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,201,1551,850,90/90-21,150/70-R17,No
+Triumph,tiger sport,2020,Allround,3.5,1050,124,106,In-Line Three,Four-Stroke,6-Speed,79,71.4,20,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,218,1540,830,120/70-ZR17,180/55-ZR17,No
+Yamaha,135 lc super sport,2020,Scooter,NA,134,12,11.8,Single Cylinder,Four-Stroke,6-Speed,54,58.7,4,NA,Air,NA,NA,1240,775,70/90-17,80/90-17,No
+Yamaha,ag125,2020,Enduro / Offroad,2.8,124,NA,NA,Single Cylinder,Four-Stroke,NA,54,54,11,NA,Air,Chain,NA,1350,800,2.75-19,3.50-18,No
+Yamaha,ag200f,2020,Enduro / Offroad,NA,196,NA,NA,Single Cylinder,Four-Stroke,NA,67,55.7,10,Single Overhead Cams (Sohc),Air,Chain,NA,1345,830,80/100-21,4.10-18,No
+Yamaha,bolt,2020,Custom / Cruiser,2.7,942,NA,NA,V2,Four-Stroke,5-Speed,85,83,12.87,Single Overhead Cams (Sohc),Air,Belt,NA,1570,691,100/90-M19,150/80-M16,No
+Yamaha,bolt c-spec,2020,Custom / Cruiser,NA,942,NA,NA,V2,Four-Stroke,5-Speed,85,83,12,Single Overhead Cams (Sohc),Air,Belt,NA,1570,765,100/90-19,150/80-16,No
+Yamaha,bolt r-spec,2020,Custom / Cruiser,NA,942,NA,80.4,V2,Four-Stroke,5-Speed,85,83,13,Single Overhead Cams (Sohc),Air,Belt,NA,1570,690,100/90-19,150/80-16,No
+Yamaha,bws 125,2020,Scooter,3.2,125,NA,10,Single Cylinder,Four-Stroke,Automatic,52.4,57.9,6.5,Single Overhead Cams (Sohc),Air,Belt,NA,1305,780,120/70-12,130/70-12,No
+Yamaha,crypton s,2020,Scooter,3,110,6.8,7.9,Single Cylinder,Four-Stroke,4-Speed,51,54,4.2,NA,Liquid,Chain,NA,1200,770,70/90-(17,80/90-(17,No
+Yamaha,delight,2020,Scooter,2.8,125,8.3,9.8,Single Cylinder,Four-Stroke,Automatic,52,57.9,5.5,Single Overhead Cams (Sohc),Air,Belt,NA,1250,800,90/90-12,100/90-10,No
+Yamaha,e01 genesis,2020,Prototype / Concept Model,NA,NA,14,NA,Electric,Electric,NA,NA,NA,NA,NA,Air,NA,NA,NA,NA,NA,NA,No
+Yamaha,e02 genesis,2020,Prototype / Concept Model,NA,NA,7,NA,Electric,Electric,Automatic,NA,NA,NA,NA,Air,NA,NA,NA,NA,NA,NA,No
+Yamaha,eco avantiz,2020,Scooter,NA,124,9.4,7,Single Cylinder,Four-Stroke,6-Speed,52.4,57.9,4.2,NA,Air,Belt,NA,NA,773,70/90-14,90/80-14,No
+Yamaha,eco solariz,2020,Scooter,NA,125,9.4,9.6,Single Cylinder,Four-Stroke,6-Speed,50,57.9,4.2,Single Overhead Cams (Sohc),Air,Belt,NA,NA,750,70/90-14,80/90-14,No
+Yamaha,evino,2020,Scooter,NA,NA,1.6,NA,Electric,Electric,NA,NA,NA,NA,NA,Air,NA,68,NA,NA,NA,NA,No
+Yamaha,fascino,2020,Scooter,NA,113,9.5,8.1,Single Cylinder,Four-Stroke,Automatic,50,57.8,5.2,Single Overhead Cams (Sohc),Air,Belt,103,1270,775,90/100-10,90/100-10,No
+Yamaha,fascino 125fl,2020,Scooter,NA,125,8.1,9.7,Single Cylinder,Four-Stroke,Automatic,52,57.9,5.2,Single Overhead Cams (Sohc),Air,Belt,NA,1280,780,90/100-10,90/100-10,No
+Yamaha,fjr1300a,2020,Sport Touring,3.5,1298,146,138,In-Line Four,Four-Stroke,6-Speed,79,66.2,24.98,Double Overhead Cams/Twin Cam (Dohc),Liquid,Shaft Drive,NA,1544,805,120/70-ZR17,180/55-ZR17,No
+Yamaha,fjr1300ae,2020,Sport Touring,NA,1298,144,138,In-Line Four,Four-Stroke,6-Speed,79,66.2,25,Double Overhead Cams/Twin Cam (Dohc),Liquid,Shaft Drive,NA,1545,805,120/70-ZR17,180/55-ZR17,No
+Yamaha,fjr1300ae ultimate edition,2020,Sport Touring,NA,1298,144,138,In-Line Four,Four-Stroke,6-Speed,79,66.2,25,Double Overhead Cams/Twin Cam (Dohc),Liquid,Shaft Drive,NA,1545,805,120/70-ZR17,180/55-ZR17,No
+Yamaha,fjr1300as,2020,Sport Touring,NA,1298,146,138,In-Line Four,Four-Stroke,6-Speed,79,66.2,24.98,Double Overhead Cams/Twin Cam (Dohc),Liquid,Shaft Drive,NA,1544,805,120/70-ZR17,180/55-ZR17,No
+Yamaha,fjr1300es,2020,Sport Touring,NA,1298,146,138,In-Line Four,Four-Stroke,6-Speed,79,66.2,25,Double Overhead Cams/Twin Cam (Dohc),Liquid,Shaft Drive,NA,1544,805,120/70-ZR17,180/55-ZR17,No
+Yamaha,fz 25,2020,Naked Bike,NA,249,20.9,20,Single Cylinder,Four-Stroke,5-Speed,74,58,14,Single Overhead Cams (Sohc),Air,Chain,NA,1360,795,100/80-17,140/70-17,No
+Yamaha,fz fi,2020,Naked Bike,NA,149,12.2,13.6,Single Cylinder,Four-Stroke,5-Speed,57.3,57.9,13,Single Overhead Cams (Sohc),Air,Chain,NA,1330,790,80/100-17,140/60-17,No
+Yamaha,fz-s fi,2020,Naked Bike,NA,149,13.2,12.8,Single Cylinder,Four-Stroke,5-Speed,57.3,57.9,12,Single Overhead Cams (Sohc),Air,Chain,NA,1330,790,100/80-17,140/60-17,No
+Yamaha,grizzly eps,2020,Atv,NA,686,NA,NA,Single Cylinder,Four-Stroke,Automatic,102,84,18,Single Overhead Cams (Sohc),Liquid,Shaft Drive,NA,1250,918,26/8-12,26/10-12,No
+Yamaha,grizzly eps le,2020,Atv,NA,686,NA,NA,Single Cylinder,Four-Stroke,Automatic,102,84,18,Single Overhead Cams (Sohc),Liquid,Shaft Drive,NA,1250,930,26/8-12,26/10-12,No
+Yamaha,grizzly eps se,2020,Atv,NA,686,NA,NA,Single Cylinder,Four-Stroke,Automatic,102,84,18,Single Overhead Cams (Sohc),Liquid,Shaft Drive,NA,1250,930,27/10-14,27/10-14,No
+Yamaha,kodiak 450,2020,Atv,NA,421,NA,NA,Single Cylinder,Four-Stroke,Automatic,84,75,14,Single Overhead Cams (Sohc),Liquid,Shaft Drive,NA,1240,855,25/8-12,25/10-12,No
+Yamaha,kodiak 450 eps,2020,Atv,NA,421,NA,NA,Single Cylinder,Four-Stroke,Automatic,84.5,75,14,Single Overhead Cams (Sohc),Liquid,Shaft Drive,NA,1240,855,25/8-12,25/10-12,No
+Yamaha,kodiak 450 eps dl,2020,Atv,NA,421,NA,NA,Single Cylinder,Four-Stroke,Automatic,84.5,75,14,Single Overhead Cams (Sohc),Liquid,Shaft Drive,NA,1240,855,25/8-12,25/10-12,No
+Yamaha,kodiak 450 eps se,2020,Atv,NA,421,NA,NA,Single Cylinder,Four-Stroke,Automatic,84.5,75,15.14,Single Overhead Cams (Sohc),Liquid,Shaft Drive,NA,1240,855,25/8-12,25/10-12,No
+Yamaha,kodiak 700,2020,Atv,NA,686,NA,NA,Single Cylinder,Four-Stroke,Automatic,102,84,18.02,Single Overhead Cams (Sohc),Liquid,Shaft Drive,NA,1250,860,25/8-12,25/10-12,No
+Yamaha,kodiak 700 eps,2020,Atv,NA,686,NA,NA,Single Cylinder,Four-Stroke,Automatic,102,84,18,Single Overhead Cams (Sohc),Liquid,Shaft Drive,NA,1250,860,25/8-12,25/10-12,No
+Yamaha,kodiak 700 eps alu,2020,Atv,NA,686,NA,NA,Single Cylinder,Four-Stroke,Automatic,102,84,18,Single Overhead Cams (Sohc),Liquid,Shaft Drive,NA,1250,860,25/8-12,25/10-12,No
+Yamaha,kodiak 700 eps se,2020,Atv,NA,686,NA,NA,Single Cylinder,Four-Stroke,Automatic,102,84,18,Single Overhead Cams (Sohc),Liquid,Shaft Drive,NA,1250,860,25/8-12,25/10-12,No
+Yamaha,lagenda,2020,Scooter,NA,113.7,9.9,9.9,Single Cylinder,Four-Stroke,6-Speed,50,57.9,4.05,Single Overhead Cams (Sohc),Air,Chain,NA,1240,NA,70/90-17,80/90-17,No
+Yamaha,monster energy   motogp edition yzf-r3,2020,Sport,NA,321,NA,29.6,Twin,Four-Stroke,6-Speed,68,44.1,14,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1380,780,110/70-17,140/70-17,No
+Yamaha,mt-03,2020,Sport,2.9,321,42,29.6,Twin,Four-Stroke,6-Speed,68,44.1,14,Double Overhead Cams/Twin Cam (Dohc),NA,Chain,NA,1380,780,110/70-17M,140/70-17M,No
+Yamaha,mt-07,2020,Sport,3.3,689,74,68,Twin,Four-Stroke,6-Speed,80,68.6,14,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1400,805,120/70-ZR17,180/55-ZR17,No
+Yamaha,mt-07ho,2020,Sport,NA,689,74,68,Twin,Four-Stroke,6-Speed,80,68.6,14,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1400,805,120/70-ZR17,180/55-ZR17,No
+Yamaha,mt-07la,2020,Naked Bike,NA,655,NA,NA,Twin,Four-Stroke,6-Speed,78,68.6,14,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1400,805,120/70-ZR17,180/55-ZR17,No
+Yamaha,mt-10,2020,Naked Bike,NA,998,160,111,In-Line Four,Four-Stroke,6-Speed,79,50.9,17,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1400,815,120/70-ZR17,190/55-ZR17,No
+Yamaha,mt-10 sp,2020,Naked Bike,3.5,998,158,111,In-Line Four,Four-Stroke,6-Speed,79,50.9,17,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1440,825,120/70-ZR17,190/55-ZR17,No
+Yamaha,mt-10 tourer edition,2020,Naked Bike,NA,998,158,111,In-Line Four,Four-Stroke,6-Speed,79,50.9,17,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1400,815,120/70-ZR17,190/55-ZR17,No
+Yamaha,mt-15,2020,Naked Bike,NA,155,15,14.7,Single Cylinder,Four-Stroke,6-Speed,58,58.7,10,Single Overhead Cams (Sohc),Liquid,Chain,NA,1355,810,100/80-M17,140/70-M17,No
+Yamaha,mt07tr,2020,Sport Touring,NA,689,73.8,67,Twin,Four-Stroke,6-Speed,80,68.6,17,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1460,835,120/70-R17,180/55-R17,No
+Yamaha,mt09tr,2020,Super Motard,NA,847,115,87.5,In-Line Three,Four-Stroke,6-Speed,78,59.1,18.17,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1501,850,120/70-ZR17,180/55-ZR17,No
+Yamaha,mt09tr gt,2020,Super Motard,NA,847,115,87.5,In-Line Three,Four-Stroke,6-Speed,78,59.1,18.17,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1501,850,120/70-ZR17,180/55-ZR17,No
+Yamaha,mt125,2020,Naked Bike,NA,124.7,15,11.5,Single Cylinder,Four-Stroke,6-Speed,52,58.6,10,Single Overhead Cams (Sohc),Liquid,Chain,NA,1355,810,100/80-M17,140/70-M17,No
+Yamaha,niken gt,2020,Naked Bike,NA,847,115,87.5,In-Line Three,Four-Stroke,6-Speed,78,59,18.17,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1510,835,120/70-R15,190/55-R17,No
+Yamaha,nmax 125,2020,Scooter,NA,125,12.1,11.7,Single Cylinder,Four-Stroke,Automatic,52,58.7,6.6,Single Overhead Cams (Sohc),Liquid,Belt,NA,1350,765,110/70-13,130/70-13,No
+Yamaha,nvx,2020,Scooter,NA,155,14.8,13.8,Single Cylinder,Four-Stroke,6-Speed,58,58.7,4.6,Single Overhead Cams (Sohc),Liquid,Belt,NA,1350,791,110/80-14,140/70-14,No
+Yamaha,pw50,2020,"Minibike, Cross",NA,49,NA,NA,Single Cylinder,Two-Stroke,Automatic,40,39.2,2.01,NA,Air,Shaft Drive,NA,856,475,2.50-10,2.50-10,No
+Yamaha,r1m,2020,Sport,NA,998,189,113,In-Line Four,Four-Stroke,NA,79,50.9,17,Double Overhead Cams/Twin Cam (Dohc),NA,Chain,NA,1405,860,120/70-ZR17M/C,200/55-ZR17/C,No
+Yamaha,raptor 700r,2020,Atv,NA,686,NA,NA,Single Cylinder,Four-Stroke,NA,102,84,11,Single Overhead Cams (Sohc),NA,NA,NA,1280,830,22/7-10,20/10-19,No
+Yamaha,raptor 700r se,2020,Atv,NA,686,NA,NA,Single Cylinder,Four-Stroke,NA,102,84,11,Single Overhead Cams (Sohc),NA,NA,NA,1280,830,22/7-10,20/10-19,No
+Yamaha,raptor 90,2020,Atv,NA,89.9,NA,NA,Single Cylinder,Four-Stroke,NA,47,51.8,6.6,Single Overhead Cams (Sohc),Air,NA,NA,NA,750,18/7-8,18/9-8,No
+Yamaha,ray z,2020,Scooter,NA,113,7.2,8.1,Single Cylinder,Four-Stroke,Automatic,50,57.8,5,Single Overhead Cams (Sohc),Air,Belt,104,1270,760,90/100-10,90/100-10,No
+Yamaha,saluto 125,2020,Allround,NA,125,8.2,10.1,Single Cylinder,Four-Stroke,4-Speed,52.4,57.9,7.6,Single Overhead Cams (Sohc),Air,Chain,112,1265,805,80/100-18,80/100-18,No
+Yamaha,saluto rx,2020,Sport,NA,110,7.4,8.5,Single Cylinder,Four-Stroke,NA,NA,NA,7.2,Single Overhead Cams (Sohc),Air,NA,NA,1255,785,2.75-17,3-17,No
+Yamaha,scr 950,2020,Allround,3.5,942,53.6,79.5,V2,Four-Stroke,5-Speed,85,83,13,Single Overhead Cams (Sohc),NA,Belt,NA,1575,830,100/90-M19,140/80-R17,No
+Yamaha,smax,2020,Scooter,NA,155,NA,NA,Single Cylinder,Four-Stroke,Automatic,58,58.7,7.57,Single Overhead Cams (Sohc),Liquid,Belt,NA,1405,795,120/70-13,130/70-13,No
+Yamaha,star venture,2020,Touring,NA,1854,NA,NA,V2,Four-Stroke,6-Speed,100,118,24.98,Overhead Valves (Ohv),Liquid,Belt,434.1,1717,696,130/70-R18,200/55-R16,No
+Yamaha,star venture tc,2020,Touring,NA,1854,NA,170,V2,Four-Stroke,6-Speed,100,118,NA,Overhead Valves (Ohv),Air,Belt,437,1710,695,130/70-R18,200/55-R16,No
+Yamaha,super tenere 1200ze,2020,Touring,3.7,1199,112,117,Twin,Four-Stroke,6-Speed,98,79.5,23,Double Overhead Cams/Twin Cam (Dohc),Liquid,Shaft Drive,NA,1540,845,110/80-R19,150/70-R17,Yes
+Yamaha,super tenere 1200ze raid edition,2020,Super Motard,NA,1199,112,117,Twin,Four-Stroke,6-Speed,98,79.5,23,Double Overhead Cams/Twin Cam (Dohc),Liquid,Shaft Drive,NA,1539,846,110/80-R19,150/70-R17,Yes
+Yamaha,super tenere es,2020,Super Motard,NA,1199,112,117,Twin,Four-Stroke,6-Speed,98,79.5,22.71,Double Overhead Cams/Twin Cam (Dohc),Liquid,Shaft Drive,NA,1539,846,110/80-R19,150/70-R17,Yes
+Yamaha,sz,2020,Allround,NA,149.3,12.1,12.8,Single Cylinder,Four-Stroke,5-Speed,57.3,57.9,14,Single Overhead Cams (Sohc),Air,Chain,NA,1320,800,2.75-18,100/90-17,No
+Yamaha,sz-rr version 2,2020,Allround,3,149,12.1,12.8,Single Cylinder,Four-Stroke,5-Speed,NA,NA,14,Single Overhead Cams (Sohc),Liquid,Chain,134,1320,800,2.75-17,100/90-17,No
+Yamaha,tenere 700,2020,Sport Touring,3.7,689,73.8,68,Twin,Four-Stroke,6-Speed,80,68.6,15.9,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1590,874,90/90-R21,150/70-R18,Yes
+Yamaha,tmax 560,2020,Scooter,3.6,562,46.9,55.7,Twin,Four-Stroke,Automatic,70,73,15,Double Overhead Cams/Twin Cam (Dohc),Liquid,Belt,NA,1575,800,120/70-R15,160/60-R15,No
+Yamaha,tracer 900,2020,Super Motard,3.3,847,115,87.2,In-Line Three,Four-Stroke,6-Speed,78,59,18,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1501,850,120/70-ZR17,180/55-ZR17,No
+Yamaha,tracer 900 gt,2020,Super Motard,3.5,847,115,87.5,In-Line Three,Four-Stroke,6-Speed,78,59.1,18.17,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1501,NA,120/70-ZR17,180/55-ZR17,No
+Yamaha,tricity 125,2020,Scooter,NA,125,12.1,11.7,Single Cylinder,Four-Stroke,Automatic,52,58.7,7.2,Single Overhead Cams (Sohc),Liquid,Belt,NA,1350,780,90/80-14,130/70-13,No
+Yamaha,tricity 155,2020,Scooter,NA,155,14.9,14.4,Single Cylinder,Four-Stroke,Automatic,58,58.7,7.2,Single Overhead Cams (Sohc),Liquid,Belt,NA,1350,780,90/80-14,130/70-13,No
+Yamaha,tricity 300,2020,Scooter,3.4,292,27.6,29,Single Cylinder,Four-Stroke,Automatic,NA,NA,13,Single Overhead Cams (Sohc),Liquid,Belt,NA,1595,795,90/80-14,140/70-14,No
+Yamaha,tt-r110e,2020,Enduro / Offroad,NA,110,NA,NA,Single Cylinder,Four-Stroke,4-Speed,51,54,3.79,Single Overhead Cams (Sohc),Air,Chain,NA,1080,671,2.50-14,3.00-12,No
+Yamaha,tt-r125le,2020,Enduro / Offroad,NA,124,NA,NA,Single Cylinder,Four-Stroke,5-Speed,54,54,6.06,Single Overhead Cams (Sohc),Air,Chain,NA,1270,805,70/100-19,90/100-16,No
+Yamaha,tt-r230,2020,Enduro / Offroad,NA,223,NA,18.6,Single Cylinder,Four-Stroke,6-Speed,70,58,8,Single Overhead Cams (Sohc),Air,Chain,NA,1384,871,80/100-21,100/100-18,No
+Yamaha,tt-r50e,2020,Enduro / Offroad,NA,49,NA,NA,Single Cylinder,Four-Stroke,3-Speed,36,48.6,3.1,Single Overhead Cams (Sohc),Air,Chain,NA,925,556,2.50-10,2.50-10,No
+Yamaha,tw200,2020,Enduro / Offroad,NA,196,NA,NA,Single Cylinder,Four-Stroke,5-Speed,67,55.7,6.81,Single Overhead Cams (Sohc),Air,Chain,NA,1326,790,130/80-18,180/80-14,No
+Yamaha,tw200e,2020,Enduro / Offroad,NA,196,NA,13.6,Single Cylinder,Four-Stroke,5-Speed,67,55.7,7,Single Overhead Cams (Sohc),Air,Chain,NA,1325,790,130/80-18,180/80-14,No
+Yamaha,ty-e,2020,Trial,NA,NA,NA,NA,Electric,Electric,NA,NA,NA,NA,NA,Air,Chain,70,NA,NA,NA,NA,No
+Yamaha,v star 250,2020,Custom / Cruiser,3.2,249,NA,NA,V2,Four-Stroke,5-Speed,49,66,9.46,Single Overhead Cams (Sohc),Air,Chain,NA,1491,686,3.00-18,130/90-15,Yes
+Yamaha,vixion,2020,Naked Bike,NA,150,16.4,14.5,Single Cylinder,Four-Stroke,5-Speed,57,58.7,12,Single Overhead Cams (Sohc),Liquid,Chain,NA,1295,795,90/80-17,130/70-17,No
+Yamaha,vixion r,2020,Naked Bike,NA,155.1,19,14.7,Single Cylinder,Four-Stroke,6-Speed,58,58.7,11,Single Overhead Cams (Sohc),Liquid,Chain,NA,1320,795,90/80-17,130/70-17,No
+Yamaha,vmax,2020,Custom / Cruiser,NA,1679,200,167,V4,Four-Stroke,5-Speed,90,66,15.14,Double Overhead Cams/Twin Cam (Dohc),Liquid,Shaft Drive,NA,1700,775,120/70-R18,200/50-R18,No
+Yamaha,wr155r,2020,Enduro / Offroad,NA,155,16.5,14.3,Single Cylinder,Four-Stroke,6-Speed,58,58.7,8.5,Single Overhead Cams (Sohc),Liquid,Chain,NA,NA,NA,NA,NA,No
+Yamaha,wr250f,2020,Enduro / Offroad,3.5,250,NA,NA,Single Cylinder,Four-Stroke,6-Speed,77,53.6,8.33,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1481,965,80/100-21,110/100-18,No
+Yamaha,wr250r,2020,Enduro / Offroad,2.7,250,30.7,23.7,Single Cylinder,Four-Stroke,6-Speed,77,53.6,7.57,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1420,930,80/100-21,120/80-18,No
+Yamaha,wr450f,2020,Enduro / Offroad,NA,450,NA,NA,Single Cylinder,Four-Stroke,5-Speed,97,60.9,8.33,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1481,955,80/100-21,120/90-18,No
+Yamaha,x-max 300,2020,Scooter,3.6,292,27.6,29,Single Cylinder,Four-Stroke,Automatic,70,75.9,13,Single Overhead Cams (Sohc),Liquid,Belt,NA,1540,795,120/70-15,140/70-14,No
+Yamaha,xmax 125,2020,Scooter,NA,124,14.1,12,Single Cylinder,Four-Stroke,NA,52,58.6,13,Single Overhead Cams (Sohc),Liquid,Belt,NA,1526,795,120/70-15,140/70-14,No
+Yamaha,xmax 400,2020,Scooter,NA,395,32.9,36,Single Cylinder,Four-Stroke,NA,83,73,13,Double Overhead Cams/Twin Cam (Dohc),Liquid,Belt,NA,1567,800,120/70-15,150/70-13,No
+Yamaha,xsr700,2020,Classic,NA,689,73.8,68,Twin,Four-Stroke,6-Speed,80,68.6,14,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1405,835,120/70-ZR17,180/55-ZR17,No
+Yamaha,xsr700 xtribute,2020,Allround,NA,689,73.8,68,Twin,Four-Stroke,6-Speed,80,68.6,14,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1405,845,120/70-ZR17,180/55-ZR17,No
+Yamaha,xsr700la,2020,Classic,NA,655,NA,NA,Twin,Four-Stroke,6-Speed,78,68.6,14,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1405,835,120/70-ZR17,180/55-ZR17,No
+Yamaha,xsr900,2020,Classic,3.7,847,113,87.5,In-Line Three,Four-Stroke,6-Speed,78,59.1,14,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1440,830,120/70-ZR17,180/55-ZR17,No
+Yamaha,xt250,2020,Trial,3.9,249,NA,NA,Single Cylinder,Four-Stroke,5-Speed,74,58,8,Overhead Cams (Ohc),Air,Chain,NA,NA,810,2.75-21,4.60-17,No
+Yamaha,xt250r,2020,Trial,NA,250,NA,23.6,Single Cylinder,Four-Stroke,5-Speed,77,53.6,7.6,Overhead Cams (Ohc),Air,Chain,NA,1420,930,80/100-21,120/80-18,No
+Yamaha,xv250,2020,Allround,NA,249,NA,60,V2,Four-Stroke,5-Speed,49,66,9.5,Single Overhead Cams (Sohc),Air,Chain,139,1490,685,3.00-18,130/90-15,No
+Yamaha,xv950r,2020,Custom / Cruiser,NA,942,53.6,79.5,V2,Four-Stroke,5-Speed,85,83,13,Single Overhead Cams (Sohc),Air,Belt,NA,1570,690,100/90-19,150/80-16,No
+Yamaha,xvs650 a,2020,Custom / Cruiser,3.6,649,NA,NA,V2,Four-Stroke,5-Speed,81,63,16,Single Overhead Cams (Sohc),Air,Shaft Drive,NA,1625,710,130/90-16,170/80-15,No
+Yamaha,y15zr,2020,Scooter,NA,124,15.2,13.8,Single Cylinder,Four-Stroke,6-Speed,57,58.7,4.2,Single Overhead Cams (Sohc),Liquid,NA,NA,1290,NA,70/90-17,120/70-17,No
+Yamaha,yfm700r,2020,Atv,NA,686,NA,NA,Single Cylinder,Four-Stroke,5-Speed,102,84,11,Single Overhead Cams (Sohc),Liquid,Chain,192,1280,830,22/7-10,20/10-9,No
+Yamaha,yfm700r se,2020,Atv,NA,686,NA,NA,Single Cylinder,Four-Stroke,5-Speed,102,84,11,Single Overhead Cams (Sohc),Liquid,Chain,192,1280,830,21/7-10,20/10-9,No
+Yamaha,yfz450r,2020,Atv,NA,449,NA,NA,Single Cylinder,Four-Stroke,5-Speed,95,63.4,10,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1270,810,21/7-10,20/10-9,No
+Yamaha,yfz450r se,2020,Atv,NA,449,NA,NA,Single Cylinder,Four-Stroke,5-Speed,95,63.4,10,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1270,810,21/7-10,20/10-9,No
+Yamaha,yfz50,2020,Atv,NA,49.5,NA,NA,Single Cylinder,Four-Stroke,NA,39,41.4,5.8,Single Overhead Cams (Sohc),Air,Belt,NA,830,585,16/7-7,16/7-7,No
+Yamaha,ys125,2020,Allround,NA,125,10.5,10.8,Single Cylinder,Two-Stroke,6-Speed,54.4,57.9,14,Single Overhead Cams (Sohc),Liquid,Chain,NA,1320,795,2.75-18,100/80-18,No
+Yamaha,yz 65,2020,Enduro / Offroad,NA,65,NA,NA,Single Cylinder,Two-Stroke,6-Speed,43.5,43.6,3.41,NA,Liquid,Chain,NA,1143,749,60/100-14,80/100-12,No
+Yamaha,yz125,2020,Cross / Motocross,3.6,125,NA,NA,Single Cylinder,Two-Stroke,6-Speed,54,54.5,8,NA,Liquid,Chain,NA,1443,975,80/100-21,100/90-19,No
+Yamaha,yz125x,2020,Enduro / Offroad,NA,125,NA,NA,Single Cylinder,Two-Stroke,6-Speed,54,54.5,8,NA,Liquid,Chain,NA,1455,975,90/90-21,110/90-18,No
+Yamaha,yz250,2020,Cross / Motocross,NA,249,NA,NA,Single Cylinder,Two-Stroke,5-Speed,66.4,72,8,NA,Liquid,Chain,NA,1481,976,80/100-21,110/90-19,No
+Yamaha,yz250f,2020,Cross / Motocross,3.3,250,NA,NA,Single Cylinder,Four-Stroke,5-Speed,77,53.6,6.06,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1476,965,80/100-21,100/90-19,No
+Yamaha,yz250fx,2020,Enduro / Offroad,NA,250,NA,NA,Single Cylinder,Four-Stroke,6-Speed,77,53.6,8.33,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1481,955,80/90-21,110/100-18,No
+Yamaha,yz250x,2020,Enduro / Offroad,NA,249,NA,NA,Single Cylinder,Two-Stroke,5-Speed,66,72,7.95,NA,Liquid,Chain,NA,1486,970,90/90-21,110/100-18,No
+Yamaha,yz450 fx,2020,Enduro / Offroad,NA,449.7,NA,NA,Single Cylinder,Four-Stroke,5-Speed,97,60.9,8.33,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1481,965,80/100-21,120/90-18,No
+Yamaha,yz450f,2020,Cross / Motocross,3.3,449,NA,NA,Single Cylinder,Four-Stroke,5-Speed,97,60.9,6.06,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1486,965,80/100-21,120/80-19,No
+Yamaha,yz85,2020,Cross / Motocross,NA,85,NA,NA,Single Cylinder,Two-Stroke,6-Speed,47.5,47.8,4.92,NA,Liquid,Chain,NA,1255,841,70/100-17,90/100-14,No
+Yamaha,yzf r15,2020,Sport,NA,155,18.4,14.1,Single Cylinder,Four-Stroke,6-Speed,58,58.7,12,Single Overhead Cams (Sohc),Liquid,Chain,NA,1290,815,80/80-17,140/70-17,No
+Yamaha,yzf r15 v,2020,Sport,NA,155,18.4,14.1,Single Cylinder,Four-Stroke,6-Speed,58,58.7,12,Single Overhead Cams (Sohc),Liquid,Chain,NA,1290,815,80/80-17,140/70-17,No
+Yamaha,yzf-r1,2020,Sport,NA,998,200,112,In-Line Four,Four-Stroke,6-Speed,79,50.9,17.03,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1405,856,120/70-ZR17,190/55-ZR17,No
+Yamaha,yzf-r1m,2020,Sport,NA,998,200,112,In-Line Four,Four-Stroke,6-Speed,79,50.9,17.03,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,180,1405,861,120/70-ZR17,200/55-ZR17,No
+Yamaha,yzf-r25,2020,Sport,NA,250,35,23.6,Twin,Four-Stroke,6-Speed,60,44.1,14,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1380,780,100/80-17,130/70-17,No
+Yamaha,yzf-r3,2020,Sport,3.5,321,42,29.6,Twin,Four-Stroke,6-Speed,68,44.1,14,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1379,780,110/70-17,140/70-17,No
+Yamaha,yzf-r3sp,2020,Sport,NA,321,42,29.6,Twin,Four-Stroke,6-Speed,68,44.1,14,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1379,780,110/70-17,140/70-17,No
+Yamaha,yzf-r6,2020,Sport,NA,599,123,67.5,In-Line Four,Four-Stroke,6-Speed,67,42.5,17,Double Overhead Cams/Twin Cam (Dohc),Liquid,Chain,NA,1375,850,120/70-ZR17,180/55-ZR17,No
+Yamaha,zuma 125,2020,Scooter,NA,125,NA,NA,Single Cylinder,Four-Stroke,Automatic,52.4,57.9,6.43,Single Overhead Cams (Sohc),Air,Belt,NA,1306,780,120/70-12,130/70-12,No
