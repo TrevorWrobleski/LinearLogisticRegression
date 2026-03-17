@@ -16,6 +16,8 @@ ST211 teaches linear and logistic regression with a strong applied component.
 | [Workshop 4](workshop_04.md) | Multiple Linear Regression | Ceteris paribus interpretation, categorical predictors and dummy variables, interactions, the model matrix, $F$-statistic, adjusted $R^2$, ANOVA decomposition |
 | [Workshop 5](workshop_05.md) | Outliers, Leverage, and Influence | Standardized residuals, the hat matrix, Cook's distance, DFFITS, Anscombe's quartet, manufacturing influential points, the decision framework for handling outliers |
 | [Workshop 6](workshop_06.md) | Theory & Geometry Supplement | Set operations and probability axioms, historical origins and application of *ceteris paribus*, omitted variable bias, geometric intuition for interaction terms|
+| [Workshop 7](workshop_07.md) | Transforms and Non-Linear Relationships | Centering, standardizing, log transforms on outcomes and predictors, the four model types (level-level, log-level, level-log, log-log), interpreting percentage changes, quadratic terms, diagnostic before-and-after comparisons |
+| [Workshop 8](workshop_08.md) | Prediction and Cross-Validation | Log model interpretation review, the four model types, `predict()`, confidence vs. prediction intervals, in-sample vs. out-of-sample, the cat analogy for CV, MSPE, split ratios, model comparison via cross-validation, the bias-variance trade-off |
 
 Further workshops will be added as the course progresses.
 
