@@ -18,6 +18,8 @@ ST211 teaches linear and logistic regression with a strong applied component.
 | [Workshop 6](workshop_06.md) | Theory & Geometry Supplement | Set operations and probability axioms, historical origins and application of *ceteris paribus*, omitted variable bias, geometric intuition for interaction terms|
 | [Workshop 7](workshop_07.md) | Transforms and Non-Linear Relationships | Centering, standardizing, log transforms on outcomes and predictors, the four model types (level-level, log-level, level-log, log-log), interpreting percentage changes, quadratic terms, diagnostic before-and-after comparisons |
 | [Workshop 8](workshop_08.md) | Prediction and Cross-Validation | Log model interpretation review, the four model types, `predict()`, confidence vs. prediction intervals, in-sample vs. out-of-sample, the cat analogy for CV, MSPE, split ratios, model comparison via cross-validation, the bias-variance trade-off |
+| [Workshop 9](workshop_09.md) | Introduction to Logistic Regression | Why linear regression fails for binary outcomes, probability–odds–log-odds pipeline, the Kentucky Derby odds primer, the logistic (sigmoid) function, `glm()` syntax, odds ratios, classification tables, sensitivity and specificity, the base rate trap, class imbalance and threshold selection |
+| [Workshop 10](workshop_10.md) | Multiple Logistic Regression | Multiple predictors in logistic models, deviance and model comparison, predicted probabilities, the S-curve and non-linearity, risk ratios vs. odds ratios, average predictive comparisons (APC), classification tables |
 
 Further workshops will be added as the course progresses.
 
